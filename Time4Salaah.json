@@ -1,6 +1,10 @@
 [
   { "name": "Quraan", "url": "http://relay.emasjidlive.uk/quraan" },
   { "name": "Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
+
+  { "name": "Leicester alehsaanacademy", "url": "http://relay.emasjidlive.uk/alehsaanacademy" },
+
+  
   { "name": "Nuneaton JamiMasjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" },
   
   { "name": "Coventry ZeenulIslam", "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry" },
