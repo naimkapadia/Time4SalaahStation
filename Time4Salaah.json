@@ -2,6 +2,10 @@
   { "name": "Quraan", "url": "http://relay.emasjidlive.uk/quraan" },
   { "name": "Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
   { "name": "Nuneaton JamiMasjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" },
-  { "name": "BBC Radio 1", "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one" },
-  { "name": "BBC Radio 2", "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two" }
-]
+  
+  { "name": "Coventry ZeenulIslam", "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry" },
+{ "name": "Coventry masjidezakariya", "url": "http://relay.emasjidlive.uk/masjidezakariya" },
+  { "name": "Coventry uewt", "url": "http://relay.emasjidlive.uk/uewt" },
+{ "name": "Coventry tqtrust", "url": "http://relay.emasjidlive.uk/tqtrust" },
+  { "name": "Coventry islamicacademy", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" }
+ ]
