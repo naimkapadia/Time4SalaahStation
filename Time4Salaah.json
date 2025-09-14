@@ -1,17 +1,38 @@
-[
-  { "name": "Quraan", "url": "http://relay.emasjidlive.uk/quraan" },
-  { "name": "Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
-  { "name": "Leicester alehsaanacademy", "url": "http://relay.emasjidlive.uk/alehsaanacademy" },
-  { "name": "Leicester abdullahibnmasud", "url": "http://relay.emasjidlive.uk/abdullahibnmasud" },
-  { "name": "Leicester peacecentre", "url": "http://relay.emasjidlive.uk/peacecentre" },
-  { "name": "Leicester knightonmasjid", "url": "http://relay.emasjidlive.uk/knightonmasjid" },
-  { "name": "Leicester darularqameducationaltrust", "url": "http://relay.emasjidlive.uk/darularqameducationaltrust" },
-  { "name": "Nuneaton JamiMasjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" },
-  { "name": "Coventry zeenatul_islam_coventry", "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry" },
-  { "name": "Coventry masjidezakariya", "url": "http://relay.emasjidlive.uk/masjidezakariya" },
-  { "name": "Coventry uewt", "url": "http://relay.emasjidlive.uk/uewt" },
-  { "name": "Coventry tqtrust", "url": "http://relay.emasjidlive.uk/tqtrust" },
-  { "name": "Coventry islamicacademy", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" },
-  { "name": "Coventry TEST", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" }
- ]
- ]
+{
+  "cities": [
+    {
+      "city": "QuranRadio",
+      "stations": [
+        { "name": "Quraan", "url": "http://relay.emasjidlive.uk/quraan" },
+        { "name": "Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" }
+      ]
+    },
+    {
+      "city": "Leicester",
+      "stations": [
+        { "name": "alehsaanacademy", "url": "http://relay.emasjidlive.uk/alehsaanacademy" },
+        { "name": "abdullahibnmasud", "url": "http://relay.emasjidlive.uk/abdullahibnmasud" },
+        { "name": "peacecentre", "url": "http://relay.emasjidlive.uk/peacecentre" },
+        { "name": "knightonmasjid", "url": "http://relay.emasjidlive.uk/knightonmasjid" },
+        { "name": "darularqameducationaltrust", "url": "http://relay.emasjidlive.uk/darularqameducationaltrust" }
+      ]
+    },
+    {
+      "city": "Nuneaton",
+      "stations": [
+        { "name": "JamiMasjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" }
+      ]
+    },
+    {
+      "city": "Coventry",
+      "stations": [
+        { "name": "zeenatul_islam_coventry", "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry" },
+        { "name": "masjidezakariya", "url": "http://relay.emasjidlive.uk/masjidezakariya" },
+        { "name": "uewt", "url": "http://relay.emasjidlive.uk/uewt" },
+        { "name": "tqtrust", "url": "http://relay.emasjidlive.uk/tqtrust" },
+        { "name": "islamicacademy", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" },
+        { "name": "TEST", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" }
+      ]
+    }
+  ]
+}
