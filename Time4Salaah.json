@@ -8,7 +8,30 @@
       ]
     },
     {
-      "city": "Leicester",
+      "city": "Ashton-Under-Lyne",
+      "stations": [
+        { "name": "masjidehamzah", "url": "http://relay.emasjidlive.uk/masjidehamzah" },
+      ]
+    },
+    {
+"city": "Batley",
+      "stations": [
+        { "name": "alhashimacademy", "url": "http://relay.emasjidlive.uk/alhashimacademy" },
+        { "name": "dawatal", "url": "http://relay.emasjidlive.uk/dawatal" },
+        { "name": "icwa", "url": "http://relay.emasjidlive.uk/icwa" },
+        { "name": "masjidarrashideen", "url": "http://relay.emasjidlive.uk/masjidarrashideen" },
+        { "name": "masjidnoorbatley", "url": "http://relay.emasjidlive.uk/masjidnoorbatley" },
+        { "name": "taqwa", "url": "http://relay.emasjidlive.uk/taqwa" },
+        { "name": "snowdonmasjid", "url": "http://relay.emasjidlive.uk/snowdonmasjid" },
+        { "name": "alihsantrust", "url": "http://relay.emasjidlive.uk/alihsantrust" },
+        { "name": "mpitmadina", "url": "http://relay.emasjidlive.uk/mpitmadina" },
+        { "name": "azi", "url": "http://relay.emasjidlive.uk/azi" },
+        { "name": "quba", "url": "http://relay.emasjidlive.uk/quba" },
+          ]
+    },
+    {
+  
+ "city": "Leicester",
       "stations": [
         { "name": "alehsaanacademy", "url": "http://relay.emasjidlive.uk/alehsaanacademy" },
         { "name": "abdullahibnmasud", "url": "http://relay.emasjidlive.uk/abdullahibnmasud" },
