@@ -1,7 +1,7 @@
 {
   "cities": [
     {
-      "city": "QuranRadio",
+      "city": "Quran Radio Station",
       "stations": [
         { "name": "Quraan", "url": "http://relay.emasjidlive.uk/quraan" },
         { "name": "Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" }
