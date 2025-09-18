@@ -5,7 +5,7 @@
       "stations": [
         { "name": "Emasjid Quran", "url": "http://relay.emasjidlive.uk/quraan" },
         { "name": "Emasjid Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
-        { "name": "AlHaarith", "url": "https://open.spotify.com/embed/artist/6S8515GJDQAy9H4VQwBiOV?utm_source=generator " },
+        { "name": "AlHaarith", "url": "https://open.spotify.com/embed/artist/6S8515GJDQAy9H4VQwBiOV?utm_source=generator" },
         { "name": "MyMasjid Qiraat", "url": "https://lb.mymasjid.stream/qiraat" }
       ]
     },
