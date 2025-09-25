@@ -282,7 +282,7 @@
         { "name": "Masjid Adam", "url": "http://relay.emasjidlive.uk/masjidadamoadby" },
         { "name": "Muadh ibn Jabal", "url": "http://relay.emasjidlive.uk/muadhibnjabal" },
         { "name": "Masjid Al Furqan", "url": "http://relay.emasjidlive.uk/masjidalfurqan" }
-    ]
+      ]
     },
     {
     "city": "London East",
@@ -311,8 +311,8 @@
       { "name": "Quawwat al Islam", "url": "http://relay.emasjidlive.uk/qislondon" },
       { "name": "Seven Kings", "url": "http://relay.emasjidlive.uk/skmet" }
     ]
-  },
-  {
+    },
+    {
     "city": "Nuneaton",
     "stations": [
       { "name": "Jamia Masjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" }
