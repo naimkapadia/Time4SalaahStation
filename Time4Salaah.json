@@ -284,8 +284,7 @@
         { "name": "Masjid Al Furqan", "url": "http://relay.emasjidlive.uk/masjidalfurqan" }
     ]
     },
-    [
-  {
+    {
     "city": "London East",
     "stations": [
       { "name": "Al Ihsaan", "url": "http://relay.emasjidlive.uk/al_ihsaan" },
