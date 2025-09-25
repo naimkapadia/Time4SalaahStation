@@ -283,9 +283,9 @@
         { "name": "Muadh ibn Jabal", "url": "http://relay.emasjidlive.uk/muadhibnjabal" },
         { "name": "Masjid Al Furqan", "url": "http://relay.emasjidlive.uk/masjidalfurqan" }
       ]
-       {
-    "city": "Nuneaton",
-    "stations": [
+      {
+       "city": "Nuneaton",
+       "stations": [
       { "name": "Jamia Masjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" }
     ]
   }
