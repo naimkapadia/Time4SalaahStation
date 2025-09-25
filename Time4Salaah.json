@@ -265,6 +265,59 @@
         { "name": "Shah Jalal Masjid", "url": "http://relay.emasjidlive.uk/shahjalalmasjid" },
         { "name": "Wortley Jamia Masjid", "url": "http://relay.emasjidlive.uk/wortleyjamiamasjid" }
       ]
+    },
+{
+      "city": "Leicester",
+      "stations": [
+        { "name": "Al Ehsaan Academy", "url": "http://relay.emasjidlive.uk/alehsaanacademy" },
+        { "name": "Peace Centre", "url": "http://relay.emasjidlive.uk/peacecentre" },
+        { "name": "Knighton masjid", "url": "http://relay.emasjidlive.uk/knightonmasjid" },
+        { "name": "Darul Arqam", "url": "http://relay.emasjidlive.uk/darularqameducationaltrust" },
+        { "name": "Jame Masjid", "url": "http://relay.emasjidlive.uk/jamemasjid" },
+        { "name": "Madani Masjid", "url": "http://relay.emasjidlive.uk/madanimasjid" },
+        { "name": "Masjid Aisha", "url": "http://relay.emasjidlive.uk/Masjidaisha" },
+        { "name": "Abdullah ibn Masud", "url": "http://relay.emasjidlive.uk/abdullahibnmasud" },
+        { "name": "Imam-il-Bukhari", "url": "http://relay.emasjidlive.uk/bukhari" },
+        { "name": "Darul Ihsaan", "url": "http://relay.emasjidlive.uk/darulihsaan" },
+        { "name": "Masjid Adam", "url": "http://relay.emasjidlive.uk/masjidadamoadby" },
+        { "name": "Muadh ibn Jabal", "url": "http://relay.emasjidlive.uk/muadhibnjabal" },
+        { "name": "Masjid Al Furqan", "url": "http://relay.emasjidlive.uk/masjidalfurqan" }
+      ]
+    },
+    {
+      "city": "London East",
+      "stations": [
+        { "name": "Al Ihsaan", "url": "http://relay.emasjidlive.uk/al_ihsaan" },
+        { "name": "Chadwell Heath Centre", "url": "http://relay.emasjidlive.uk/chadwellheathcentralmasjid" },
+        { "name": "Clayhall Islamic Centre", "url": "http://relay.emasjidlive.uk/ccc" },
+        { "name": "Eshaat-ul-Islam", "url": "http://relay.emasjidlive.uk/eshaatulislam" },
+        { "name": "Hasanah Centre", "url": "http://relay.emasjidlive.uk/hasanahaid" },
+        { "name": "Madaniyah Foundation", "url": "http://relay.emasjidlive.uk/madaniyahfoundation" },
+        { "name": "Masjid Adam", "url": "http://relay.emasjidlive.uk/masjidadam" },
+        { "name": "Masjidal Hikmah", "url": "http://relay.emasjidlive.uk/masjidalhikmah" },
+        { "name": "Dawatul Islam", "url": "http://relay.emasjidlive.uk/balfourroadmasjid" },
+        { "name": "Newbury Park Masjid", "url": "http://relay.emasjidlive.uk/newburyparkmasjid" },
+        { "name": "Salam Youth Academy", "url": "http://relay.emasjidlive.uk/sya" },
+        { "name": "At-Taqwa Academy", "url": "http://relay.emasjidlive.uk/attaqwaacademy" },
+        { "name": "Chingford Masjid", "url": "http://relay.emasjidlive.uk/chingfordmasjid" },
+        { "name": "East End Islamic Centre", "url": "http://relay.emasjidlive.uk/eeic" },
+        { "name": "Harold Hill", "url": "http://relay.emasjidlive.uk/cysmosque" },
+        { "name": "Leytonstone masjid", "url": "http://relay.emasjidlive.uk/leytonstonemasjid" },
+        { "name": "Markaz ud Dawat Wal Irshad", "url": "http://relay.emasjidlive.uk/plashetgrovemasjid" },
+        { "name": "Masjid Alfalah Ilford", "url": "http://relay.emasjidlive.uk/masjidalfalahilford" },
+        { "name": "Masjide Usman", "url": "http://relay.emasjidlive.uk/masjideusmanleytonstone" },
+        { "name": "Masjid Yousuf", "url": "http://relay.emasjidlive.uk/masjidyousuf" },
+        { "name": "Masjide Tauheed", "url": "http://relay.emasjidlive.uk/masjidetauheed" },
+        { "name": "Quawwat al Islam", "url": "http://relay.emasjidlive.uk/qislondon" },
+        { "name": "Seven Kings", "url": "http://relay.emasjidlive.uk/skmet" }
+      ]
+    },
+    {
+      "city": "Nuneaton",
+      "stations": [
+        { "name": "Jamia Masjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" }
+      ]
     }
   ]
 }
+
