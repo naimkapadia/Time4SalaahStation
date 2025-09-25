@@ -37,6 +37,12 @@
       ]
     },
     {
+      "city": "Nuneaton",
+      "stations": [
+        { "name": "Jami Masjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" }
+      ]
+    },
+    {
       "city": "Birmingham",
       "stations": [
         { "name": "Al-Habib", "url": "http://relay.emasjidlive.uk/alhabib" },
