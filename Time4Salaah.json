@@ -11,222 +11,259 @@
     {
       "city": "Ashton-Under-Lyne",
       "stations": [
-        { "name": "masjidehamzah", "url": "http://relay.emasjidlive.uk/masjidehamzah" }
+        { "name": "Masjid e Hamzah", "url": "http://relay.emasjidlive.uk/masjidehamzah" }
       ]
     },
     {
       "city": "Batley",
       "stations": [
-        { "name": "alhashimacademy", "url": "http://relay.emasjidlive.uk/alhashimacademy" },
-        { "name": "dawatal", "url": "http://relay.emasjidlive.uk/dawatal" },
-        { "name": "icwa", "url": "http://relay.emasjidlive.uk/icwa" },
-        { "name": "masjidarrashideen", "url": "http://relay.emasjidlive.uk/masjidarrashideen" },
-        { "name": "masjidnoorbatley", "url": "http://relay.emasjidlive.uk/masjidnoorbatley" },
-        { "name": "taqwa", "url": "http://relay.emasjidlive.uk/taqwa" },
-        { "name": "snowdonmasjid", "url": "http://relay.emasjidlive.uk/snowdonmasjid" },
-        { "name": "alihsantrust", "url": "http://relay.emasjidlive.uk/alihsantrust" },
-        { "name": "mpitmadina", "url": "http://relay.emasjidlive.uk/mpitmadina" },
-        { "name": "azi", "url": "http://relay.emasjidlive.uk/azi" },
-        { "name": "quba", "url": "http://relay.emasjidlive.uk/quba" }
+        { "name": "alhashim Academy", "url": "http://relay.emasjidlive.uk/alhashimacademy" },
+        { "name": "Dawatal", "url": "http://relay.emasjidlive.uk/dawatal" },
+        { "name": "ICWA", "url": "http://relay.emasjidlive.uk/icwa" },
+        { "name": "Masjid Arrashideen", "url": "http://relay.emasjidlive.uk/masjidarrashideen" },
+        { "name": "Masjid Noor", "url": "http://relay.emasjidlive.uk/masjidnoorbatley" },
+        { "name": "Taqwa", "url": "http://relay.emasjidlive.uk/taqwa" },
+        { "name": "Snowdon masjid", "url": "http://relay.emasjidlive.uk/snowdonmasjid" },
+        { "name": "Ali Ehsan trust", "url": "http://relay.emasjidlive.uk/alihsantrust" },
+        { "name": "Mpit Madina", "url": "http://relay.emasjidlive.uk/mpitmadina" },
+        { "name": "AZI", "url": "http://relay.emasjidlive.uk/azi" },
+        { "name": "Quba", "url": "http://relay.emasjidlive.uk/quba" }
       ]
     },
     {
       "city": "Bedford",
       "stations": [
-        { "name": "daarulhuda", "url": "http://relay.emasjidlive.uk/daarulhuda" }
+        { "name": "Daarul Huda", "url": "http://relay.emasjidlive.uk/daarulhuda" }
       ]
     },
     {
       "city": "Birmingham",
       "stations": [
-        { "name": "alhabib", "url": "http://relay.emasjidlive.uk/alhabib" },
-        { "name": "gbmf", "url": "http://relay.emasjidlive.uk/gbmf" },
-        { "name": "jamimosque", "url": "http://relay.emasjidlive.uk/jamimosque" },
-        { "name": "masjidalfalaah", "url": "http://relay.emasjidlive.uk/masjidalfalaah" },
-        { "name": "masjidnaqeebulislam", "url": "http://relay.emasjidlive.uk/masjidnaqeebulislam" },
-        { "name": "taqwa", "url": "http://relay.emasjidlive.uk/taqwa" },
-        { "name": "masjidulmadni", "url": "http://relay.emasjidlive.uk/masjidulmadni" },
-        { "name": "birminghamjamemasjid", "url": "http://relay.emasjidlive.uk/birminghamjamemasjid" },
-        { "name": "goa", "url": "http://relay.emasjidlive.uk/goa" },
-        { "name": "kingsheathmasjid", "url": "http://relay.emasjidlive.uk/kingsheathmasjid" },
-        { "name": "masjidesaibnmaryam", "url": "http://relay.emasjidlive.uk/masjidesaibnmaryam" },
-        { "name": "masjidtaqwa", "url": "http://relay.emasjidlive.uk/masjidtaqwa" }
+        { "name": "Al- Habib", "url": "http://relay.emasjidlive.uk/alhabib" },
+        { "name": "GBMF", "url": "http://relay.emasjidlive.uk/gbmf" },
+        { "name": "Jami Mosque", "url": "http://relay.emasjidlive.uk/jamimosque" },
+        { "name": "Masjid al falaah", "url": "http://relay.emasjidlive.uk/masjidalfalaah" },
+        { "name": "Masjid naqeebul Islam", "url": "http://relay.emasjidlive.uk/masjidnaqeebulislam" },
+        { "name": "Taqwa", "url": "http://relay.emasjidlive.uk/taqwa" },
+        { "name": "Masjidul madni", "url": "http://relay.emasjidlive.uk/masjidulmadni" },
+        { "name": "Birmingham jame masjid", "url": "http://relay.emasjidlive.uk/birminghamjamemasjid" },
+        { "name": "GOA", "url": "http://relay.emasjidlive.uk/goa" },
+        { "name": "Kings Heath Masjid", "url": "http://relay.emasjidlive.uk/kingsheathmasjid" },
+        { "name": "Masjid Esa ibn Maryam", "url": "http://relay.emasjidlive.uk/masjidesaibnmaryam" },
+        { "name": "Masjid Taqwa", "url": "http://relay.emasjidlive.uk/masjidtaqwa" }
       ]
     },
     {
       "city": "Blackburn",
       "stations": [
-        { "name": "jaamemasjidblackburn", "url": "http://relay.emasjidlive.uk/jaamemasjidblackburn" },
-        { "name": "mmigreatharwood", "url": "http://relay.emasjidlive.uk/mmigreatharwood" },
-        { "name": "masjideanisulislam", "url": "http://relay.emasjidlive.uk/masjideanisulislam" },
-        { "name": "masjidevali", "url": "http://relay.emasjidlive.uk/masjidevali" },
-        { "name": "masjidebilaal", "url": "http://relay.emasjidlive.uk/masjidebilaal" },
-        { "name": "masjiderizwan", "url": "http://relay.emasjidlive.uk/masjiderizwan" },
-        { "name": "masjidenoorulislam", "url": "http://relay.emasjidlive.uk/masjidenoorulislam" },
-        { "name": "markazululoom", "url": "http://relay.emasjidlive.uk/markazululoom" },
-        { "name": "masjidalmomineen", "url": "http://relay.emasjidlive.uk/masjidalmomineen" },
-        { "name": "masjidesajedeen", "url": "http://relay.emasjidlive.uk/masjidesajedeen" },
-        { "name": "masjid_e_anwaar", "url": "http://relay.emasjidlive.uk/masjid_e_anwaar" },
-        { "name": "masjidquwwatulislam", "url": "http://relay.emasjidlive.uk/masjidquwwatulislam" },
-        { "name": "masjid_saliheen", "url": "http://relay.emasjidlive.uk/masjid_saliheen" },
-        { "name": "musallamaryam", "url": "http://relay.emasjidlive.uk/musallamaryam" }
+        { "name": "Jaame Masjid Blackburn", "url": "http://relay.emasjidlive.uk/jaamemasjidblackburn" },
+        { "name": "Mmi greathar wood", "url": "http://relay.emasjidlive.uk/mmigreatharwood" },
+        { "name": "Masjid e anisul islam", "url": "http://relay.emasjidlive.uk/masjideanisulislam" },
+        { "name": "Masjid Evali", "url": "http://relay.emasjidlive.uk/masjidevali" },
+        { "name": "Masjide Bilaal", "url": "http://relay.emasjidlive.uk/masjidebilaal" },
+        { "name": "Masjide Rizwan", "url": "http://relay.emasjidlive.uk/masjiderizwan" },
+        { "name": "Masjide Noorul Islam", "url": "http://relay.emasjidlive.uk/masjidenoorulislam" },
+        { "name": "Markaz Ululoom", "url": "http://relay.emasjidlive.uk/markazululoom" },
+        { "name": "Masjid al Momineen", "url": "http://relay.emasjidlive.uk/masjidalmomineen" },
+        { "name": "Masjide Sajedeen", "url": "http://relay.emasjidlive.uk/masjidesajedeen" },
+        { "name": "Masjide_Anwaar", "url": "http://relay.emasjidlive.uk/masjid_e_anwaar" },
+        { "name": "Masjid Quwwatul Islam", "url": "http://relay.emasjidlive.uk/masjidquwwatulislam" },
+        { "name": "Masjid Saliheen", "url": "http://relay.emasjidlive.uk/masjid_saliheen" },
+        { "name": "Musalla-maryam", "url": "http://relay.emasjidlive.uk/musallamaryam" }
       ]
     },
     {
       "city": "Bolton",
       "stations": [
-        { "name": "adammasjid", "url": "http://relay.emasjidlive.uk/adammasjid" },
-        { "name": "ashrafiamasjid", "url": "http://relay.emasjidlive.uk/ashrafiamasjid" },
-        { "name": "makkimasjidbolton", "url": "http://relay.emasjidlive.uk/makkimasjidbolton" },
-        { "name": "masjidalibolton", "url": "http://relay.emasjidlive.uk/masjidalibolton" },
-        { "name": "taiyabahmasjid", "url": "http://relay.emasjidlive.uk/taiyabahmasjid" },
-        { "name": "alfalahbolton", "url": "http://relay.emasjidlive.uk/alfalahbolton" },
-        { "name": "azharacademybolton", "url": "http://relay.emasjidlive.uk/azharacademybolton" },
-        { "name": "alrahman", "url": "http://relay.emasjidlive.uk/alrahman" },
-        { "name": "zjmbolton", "url": "http://relay.emasjidlive.uk/zjmbolton" }
+        { "name": "Adam Masjid", "url": "http://relay.emasjidlive.uk/adammasjid" },
+        { "name": "Ashrafia Masjid", "url": "http://relay.emasjidlive.uk/ashrafiamasjid" },
+        { "name": "Makki Masjid Bolton", "url": "http://relay.emasjidlive.uk/makkimasjidbolton" },
+        { "name": "Masjid Ali bolton", "url": "http://relay.emasjidlive.uk/masjidalibolton" },
+        { "name": "Taiyabah Masjid", "url": "http://relay.emasjidlive.uk/taiyabahmasjid" },
+        { "name": "Alfalah Bolton", "url": "http://relay.emasjidlive.uk/alfalahbolton" },
+        { "name": "Azhar Academy Bolton", "url": "http://relay.emasjidlive.uk/azharacademybolton" },
+        { "name": "Al Rahman", "url": "http://relay.emasjidlive.uk/alrahman" },
+        { "name": "Zjm Bolton", "url": "http://relay.emasjidlive.uk/zjmbolton" }
       ]
     },
     {
       "city": "Bournemouth",
       "stations": [
-        { "name": "bjmosque", "url": "http://relay.emasjidlive.uk/bjmosque" }
+        { "name": "Bj Mosque", "url": "http://relay.emasjidlive.uk/bjmosque" }
       ]
     },
     {
       "city": "Bradford",
       "stations": [
-        { "name": "alhidayaacademy", "url": "http://relay.emasjidlive.uk/alhidayaacademy" },
-        { "name": "jamiamasjidbradford", "url": "http://relay.emasjidlive.uk/jamiamasjidbradford" },
-        { "name": "attaqwa", "url": "http://relay.emasjidlive.uk/attaqwa" },
-        { "name": "nimrah", "url": "http://relay.emasjidlive.uk/nimrah" },
-        { "name": "masjidnoorulislambradford", "url": "http://relay.emasjidlive.uk/masjidnoorulislambradford" },
-        { "name": "tawakkuliaislamicsociety", "url": "http://relay.emasjidlive.uk/tawakkuliaislamicsociety" },
-        { "name": "almahadulislami", "url": "http://relay.emasjidlive.uk/almahadulislami" },
-        { "name": "iyma", "url": "http://relay.emasjidlive.uk/iyma" },
-        { "name": "madnimasjidbd5", "url": "http://relay.emasjidlive.uk/madnimasjidbd5" },
-        { "name": "masjidbilal", "url": "http://relay.emasjidlive.uk/masjidbilal" },
-        { "name": "masjidnoorbradford", "url": "http://relay.emasjidlive.uk/masjidnoorbradford" },
-        { "name": "masjidquba", "url": "http://relay.emasjidlive.uk/masjidquba" },
-        { "name": "masjidumarbradford", "url": "https://lb.mymasjid.stream/umarbradford" }
+        { "name": "Alhidaya Academy", "url": "http://relay.emasjidlive.uk/alhidayaacademy" },
+        { "name": "Jamia Masjid Bradford", "url": "http://relay.emasjidlive.uk/jamiamasjidbradford" },
+        { "name": "Attaqwa", "url": "http://relay.emasjidlive.uk/attaqwa" },
+        { "name": "Nimrah", "url": "http://relay.emasjidlive.uk/nimrah" },
+        { "name": "Masjid Noorul Islam", "url": "http://relay.emasjidlive.uk/masjidnoorulislambradford" },
+        { "name": "Tawakkulia Islamic Society", "url": "http://relay.emasjidlive.uk/tawakkuliaislamicsociety" },
+        { "name": "Almahadul Islami", "url": "http://relay.emasjidlive.uk/almahadulislami" },
+        { "name": "IYAMA", "url": "http://relay.emasjidlive.uk/iyma" },
+        { "name": "Madni Masjid", "url": "http://relay.emasjidlive.uk/madnimasjidbd5" },
+        { "name": "Masjid Bilal", "url": "http://relay.emasjidlive.uk/masjidbilal" },
+        { "name": "Masjid Noor", "url": "http://relay.emasjidlive.uk/masjidnoorbradford" },
+        { "name": "Masjid Quba", "url": "http://relay.emasjidlive.uk/masjidquba" },
+        { "name": "Masjid Umar", "url": "https://lb.mymasjid.stream/umarbradford" }
       ]
     },
     {
       "city": "Bristol",
       "stations": [
-        { "name": "greenbank", "url": "http://relay.emasjidlive.uk/greenbankmasjid" }
+        { "name": "Greenbank", "url": "http://relay.emasjidlive.uk/greenbankmasjid" }
       ]
     },
     {
       "city": "Burton Upon Trent",
       "stations": [
-        { "name": "makkimasjidburton", "url": "http://relay.emasjidlive.uk/makkimasjidburton" }
+        { "name": "Makki Masjid", "url": "http://relay.emasjidlive.uk/makkimasjidburton" }
       ]
     },
     {
       "city": "Chelmsford",
       "stations": [
-        { "name": "chelmsfordcentral", "url": "http://relay.emasjidlive.uk/chelmsfordcentral" }
+        { "name": "Chelmsford Central", "url": "http://relay.emasjidlive.uk/chelmsfordcentral" }
       ]
     },
     {
       "city": "Cheltenham",
       "stations": [
-        { "name": "masjidalmadina", "url": "http://relay.emasjidlive.uk/masjidalmadina" }
+        { "name": "Masjid Al Madina", "url": "http://relay.emasjidlive.uk/masjidalmadina" }
       ]
     },
     {
       "city": "Colchester",
       "stations": [
-        { "name": "colchesterjamia", "url": "http://relay.emasjidlive.uk/colchestermosque" }
+        { "name": "Colchester Jamia", "url": "http://relay.emasjidlive.uk/colchestermosque" }
       ]
     },
     {
       "city": "Coventry",
       "stations": [
-        { "name": "zeenatul_islam_coventry", "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry" },
-        { "name": "masjidezakariya", "url": "http://relay.emasjidlive.uk/masjidezakariya" },
-        { "name": "uewt", "url": "http://relay.emasjidlive.uk/uewt" },
-        { "name": "tqtrust", "url": "http://relay.emasjidlive.uk/tqtrust" },
-        { "name": "islamicacademy", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" }
+        { "name": "Zeenatul_islam_coventry", "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry" },
+        { "name": "Masjide zakariya", "url": "http://relay.emasjidlive.uk/masjidezakariya" },
+        { "name": "UEWT", "url": "http://relay.emasjidlive.uk/uewt" },
+        { "name": "TQ TRUST", "url": "http://relay.emasjidlive.uk/tqtrust" },
+        { "name": "Islamic Academy", "url": "http://relay.emasjidlive.uk/islamicacademycoventry" }
       ]
     },
     {
       "city": "Darlaston",
       "stations": [
-        { "name": "masjideumar", "url": "http://relay.emasjidlive.uk/masjideumar" }
+        { "name": "Masjide Umar", "url": "http://relay.emasjidlive.uk/masjideumar" }
       ]
     },
     {
       "city": "Derby",
       "stations": [
-        { "name": "masjidalfarooqderby", "url": "http://relay.emasjidlive.uk/masjidalfarooqderby" }
+        { "name": "Masjid Farooq", "url": "http://relay.emasjidlive.uk/masjidalfarooqderby" }
       ]
     },
     {
       "city": "Dewsbury",
       "stations": [
-        { "name": "darulilmdewsbury", "url": "http://relay.emasjidlive.uk/darulilmdewsbury" },
-        { "name": "islamictarbiyah", "url": "http://relay.emasjidlive.uk/ita" },
-        { "name": "madinaacademy", "url": "http://relay.emasjidlive.uk/madina_academy" },
-        { "name": "masjidassalaam", "url": "http://relay.emasjidlive.uk/masjidassalaam" },
-        { "name": "masjidheera", "url": "http://relay.emasjidlive.uk/masjidheera" },
-        { "name": "masjidtalha", "url": "http://relay.emasjidlive.uk/talha" },
-        { "name": "masjidbilaldewsbury", "url": "http://relay.emasjidlive.uk/masjidbilaldewsbury" },
-        { "name": "zakariamasjid", "url": "http://relay.emasjidlive.uk/zakariamasjid" },
-        { "name": "ilaahi", "url": "http://relay.emasjidlive.uk/ilaahi" },
-        { "name": "alhira", "url": "http://relay.emasjidlive.uk/alhira" },
-        { "name": "madnimasjiddewsburytown", "url": "http://relay.emasjidlive.uk/madnimasjiddewsburytown" },
-        { "name": "masjidbaituttauheed", "url": "http://relay.emasjidlive.uk/masjidbaituttauheed" },
-        { "name": "masjidnoordewsbury", "url": "http://relay.emasjidlive.uk/masjidnoordewsbury" },
-        { "name": "masjidurrahman", "url": "http://relay.emasjidlive.uk/masjidurrahman" },
-        { "name": "meudewsbury", "url": "http://relay.emasjidlive.uk/meudewsbury" }
+        { "name": "Darul Ilm", "url": "http://relay.emasjidlive.uk/darulilmdewsbury" },
+        { "name": "Islamic Tarbiyah", "url": "http://relay.emasjidlive.uk/ita" },
+        { "name": "Madina Academy", "url": "http://relay.emasjidlive.uk/madina_academy" },
+        { "name": "Masjidassalaam", "url": "http://relay.emasjidlive.uk/masjidassalaam" },
+        { "name": "Masjid Heera", "url": "http://relay.emasjidlive.uk/masjidheera" },
+        { "name": "Masjid Talha", "url": "http://relay.emasjidlive.uk/talha" },
+        { "name": "Masjid Bilal", "url": "http://relay.emasjidlive.uk/masjidbilaldewsbury" },
+        { "name": "Zakaria Masjid", "url": "http://relay.emasjidlive.uk/zakariamasjid" },
+        { "name": "Ilaahi", "url": "http://relay.emasjidlive.uk/ilaahi" },
+        { "name": "Alhira", "url": "http://relay.emasjidlive.uk/alhira" },
+        { "name": "Madni Masjid", "url": "http://relay.emasjidlive.uk/madnimasjiddewsburytown" },
+        { "name": "Masjid Baitut tauheed", "url": "http://relay.emasjidlive.uk/masjidbaituttauheed" },
+        { "name": "Masjid Noor", "url": "http://relay.emasjidlive.uk/masjidnoordewsbury" },
+        { "name": "Masjid Urrahman", "url": "http://relay.emasjidlive.uk/masjidurrahman" },
+        { "name": "MEU", "url": "http://relay.emasjidlive.uk/meudewsbury" }
       ]
     },
     {
       "city": "Dundee",
       "stations": [
-        { "name": "dundeecentralmosque", "url": "http://relay.emasjidlive.uk/dundeecentralmosque" }
+        { "name": "Central mosque", "url": "http://relay.emasjidlive.uk/dundeecentralmosque" }
       ]
     },
     {
       "city": "Edinburgh",
       "stations": [
-        { "name": "mmccbonnyrigg", "url": "http://relay.emasjidlive.uk/mmcc" }
+        { "name": "MMCC Bonnyrigg", "url": "http://relay.emasjidlive.uk/mmcc" }
       ]
     },
     {
       "city": "Elland",
       "stations": [
-        { "name": "ellandmasjid", "url": "http://relay.emasjidlive.uk/ellandmasjid" }
+        { "name": "Ellandmasjid", "url": "http://relay.emasjidlive.uk/ellandmasjid" }
       ]
     },
     {
       "city": "Essex",
       "stations": [
-        { "name": "harlowislamiccentre", "url": "http://relay.emasjidlive.uk/harlowislamiccentre" },
-        { "name": "alfallahbraintree", "url": "http://relay.emasjidlive.uk/braintree" }
+        { "name": "Harlow Islamic Centre", "url": "http://relay.emasjidlive.uk/harlowislamiccentre" },
+        { "name": "Alfallah Braintree", "url": "http://relay.emasjidlive.uk/braintree" }
       ]
     },
     {
       "city": "Falkirk",
       "stations": [
-        { "name": "islamiccentre", "url": "http://relay.emasjidlive.uk/fic" }
+        { "name": "Islamic Centre", "url": "http://relay.emasjidlive.uk/fic" }
       ]
     },
     {
-      "city": "Leicester",
+      "city": "Glasgow",
       "stations": [
-        { "name": "alehsaanacademy", "url": "http://relay.emasjidlive.uk/alehsaanacademy" },
-        { "name": "abdullahibnmasud", "url": "http://relay.emasjidlive.uk/abdullahibnmasud" },
-        { "name": "peacecentre", "url": "http://relay.emasjidlive.uk/peacecentre" },
-        { "name": "knightonmasjid", "url": "http://relay.emasjidlive.uk/knightonmasjid" },
-        { "name": "darularqameducationaltrust", "url": "http://relay.emasjidlive.uk/darularqameducationaltrust" }
+        { "name": "Al Khalil College", "url": "http://relay.emasjidlive.uk/alkhalilcollege" },
+        { "name": "Ibrahim Masjid", "url": "http://relay.emasjidlive.uk/ibrahimmasjid" },
+        { "name": "Lanarkshire Mosque", "url": "http://relay.emasjidlive.uk/lanarkshiremosque" },
+        { "name": "Ta’Alimul Islam", "url": "http://relay.emasjidlive.uk/mtiglasgow" },
+        { "name": "Newton Mearns", "url": "http://relay.emasjidlive.uk/nmislamiccentre" },
+        { "name": "Glasgow Mosque", "url": "http://relay.emasjidlive.uk/glasgowmosque" },
+        { "name": "Islamic Education Trust", "url": "http://relay.emasjidlive.uk/cumbernauldmasjid" },
+        { "name": "Madni Masjid", "url": "http://relay.emasjidlive.uk/madni_masjid" },
+        { "name": "Masjid Omar", "url": "http://relay.emasjidlive.uk/masjidomar" },
+        { "name": "Zakaria Masjid", "url": "http://relay.emasjidlive.uk/zmmasjidmotherwell" }
       ]
     },
     {
-      "city": "Nuneaton",
+      "city": "Heckmondwike",
       "stations": [
-        { "name": "jamimasjid", "url": "http://relay.emasjidlive.uk/nuneatonmasjid" }
+        { "name": "Masjid Ali", "url": "http://relay.emasjidlive.uk/masjidali" }
+      ]
+    },
+    {
+      "city": "Huddersfield",
+      "stations": [
+        { "name": "Jamia Masjid Noor", "url": "http://relay.emasjidlive.uk/jamiamasjidnoor" },
+        { "name": "Masjid Usman", "url": "http://relay.emasjidlive.uk/masjidusman" }
+      ]
+    },
+    {
+      "city": "Hull",
+      "stations": [
+        { "name": "As-Suffa", "url": "http://relay.emasjidlive.uk/as_suffa" }
+      ]
+    },
+    {
+      "city": "Kidderminster",
+      "stations": [
+        { "name": "Amanah Masjid", "url": "http://relay.emasjidlive.uk/amanahmasjid" }
+      ]
+    },
+    {
+      "city": "Leeds",
+      "stations": [
+        { "name": "Darul Huda Leeds", "url": "http://relay.emasjidlive.uk/darulhudaleeds" },
+        { "name": "Masjid Ibraheem", "url": "http://relay.emasjidlive.uk/masjidibraheem" },
+        { "name": "Masjid Quba Leeds", "url": "http://relay.emasjidlive.uk/masjidqubaleeds" },
+        { "name": "Zia Ul Quran Leeds", "url": "http://relay.emasjidlive.uk/ziaulquranleeds" },
+        { "name": "Masjid Abu Bakr", "url": "http://relay.emasjidlive.uk/masjidabubakrleeds" },
+        { "name": "Masjid Umar Leeds", "url": "http://relay.emasjidlive.uk/masjidumarleeds" },
+        { "name": "Shah Jalal Masjid", "url": "http://relay.emasjidlive.uk/shahjalalmasjid" },
+        { "name": "Wortley Jamia Masjid", "url": "http://relay.emasjidlive.uk/wortleyjamiamasjid" }
       ]
     }
   ]
