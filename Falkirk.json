@@ -1,0 +1,9 @@
+{
+  "city": "Falkirk",
+  "stations": [
+    {
+      "name": "Islamic Centre",
+      "url": "http://relay.emasjidlive.uk/fic"
+    }
+  ]
+}
