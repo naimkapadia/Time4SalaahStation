@@ -1,0 +1,57 @@
+{
+  "city": "Bradford",
+  "stations": [
+    {
+      "name": "Alhidaya Academy",
+      "url": "http://relay.emasjidlive.uk/alhidayaacademy"
+    },
+    {
+      "name": "Jamia Masjid Bradford",
+      "url": "http://relay.emasjidlive.uk/jamiamasjidbradford"
+    },
+    {
+      "name": "Attaqwa",
+      "url": "http://relay.emasjidlive.uk/attaqwa"
+    },
+    {
+      "name": "Nimrah",
+      "url": "http://relay.emasjidlive.uk/nimrah"
+    },
+    {
+      "name": "Masjid Noorul Islam",
+      "url": "http://relay.emasjidlive.uk/masjidnoorulislambradford"
+    },
+    {
+      "name": "Tawakkulia Islamic Society",
+      "url": "http://relay.emasjidlive.uk/tawakkuliaislamicsociety"
+    },
+    {
+      "name": "Almahadul Islami",
+      "url": "http://relay.emasjidlive.uk/almahadulislami"
+    },
+    {
+      "name": "IYAMA",
+      "url": "http://relay.emasjidlive.uk/iyma"
+    },
+    {
+      "name": "Madni Masjid",
+      "url": "http://relay.emasjidlive.uk/madnimasjidbd5"
+    },
+    {
+      "name": "Masjid Bilal",
+      "url": "http://relay.emasjidlive.uk/masjidbilal"
+    },
+    {
+      "name": "Masjid Noor",
+      "url": "http://relay.emasjidlive.uk/masjidnoorbradford"
+    },
+    {
+      "name": "Masjid Quba",
+      "url": "http://relay.emasjidlive.uk/masjidquba"
+    },
+    {
+      "name": "Masjid Umar",
+      "url": "https://lb.mymasjid.stream/umarbradford"
+    }
+  ]
+}
