@@ -1,0 +1,9 @@
+{
+  "city": "Bedford",
+  "stations": [
+    {
+      "name": "Daarul Huda",
+      "url": "http://relay.emasjidlive.uk/daarulhuda"
+    }
+  ]
+}
