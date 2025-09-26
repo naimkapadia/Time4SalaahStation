@@ -27,7 +27,10 @@
     { "name": "Heckmondwike", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Heckmondwike.json" },
     { "name": "Huddersfield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Huddersfield.json" },
     { "name": "Hull", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Hull.json" },
-    { "name": "Hull", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Hull.json" },
+    { "name": "Kiderminister", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Kidderminster.json" },
+    { "name": "Leeds", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Leeds.json" },
+    { "name": "Leicester", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Leicester.json" },
+    { "name": "London  East", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
     { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" }
     ]
 }
