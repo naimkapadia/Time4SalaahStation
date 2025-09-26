@@ -1,0 +1,53 @@
+{
+  "city": "Birmingham",
+  "stations": [
+    {
+      "name": "Al-Habib",
+      "url": "http://relay.emasjidlive.uk/alhabib"
+    },
+    {
+      "name": "GBMF",
+      "url": "http://relay.emasjidlive.uk/gbmf"
+    },
+    {
+      "name": "Jami Mosque",
+      "url": "http://relay.emasjidlive.uk/jamimosque"
+    },
+    {
+      "name": "Masjid Al Falaah",
+      "url": "http://relay.emasjidlive.uk/masjidalfalaah"
+    },
+    {
+      "name": "Masjid Naqeebul Islam",
+      "url": "http://relay.emasjidlive.uk/masjidnaqeebulislam"
+    },
+    {
+      "name": "Taqwa",
+      "url": "http://relay.emasjidlive.uk/taqwa"
+    },
+    {
+      "name": "Masjidul Madni",
+      "url": "http://relay.emasjidlive.uk/masjidulmadni"
+    },
+    {
+      "name": "Birmingham Jame Masjid",
+      "url": "http://relay.emasjidlive.uk/birminghamjamemasjid"
+    },
+    {
+      "name": "GOA",
+      "url": "http://relay.emasjidlive.uk/goa"
+    },
+    {
+      "name": "Kings Heath Masjid",
+      "url": "http://relay.emasjidlive.uk/kingsheathmasjid"
+    },
+    {
+      "name": "Masjid Esa Ibn Maryam",
+      "url": "http://relay.emasjidlive.uk/masjidesaibnmaryam"
+    },
+    {
+      "name": "Masjid Taqwa",
+      "url": "http://relay.emasjidlive.uk/masjidtaqwa"
+    }
+  ]
+}
