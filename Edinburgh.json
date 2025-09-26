@@ -1,0 +1,9 @@
+{
+  "city": "Edinburgh",
+  "stations": [
+    {
+      "name": "MMCC Bonnyrigg",
+      "url": "http://relay.emasjidlive.uk/mmcc"
+    }
+  ]
+}
