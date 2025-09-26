@@ -1,0 +1,9 @@
+{
+  "city": "Chelmsford",
+  "stations": [
+    {
+      "name": "Chelmsford Central",
+      "url": "http://relay.emasjidlive.uk/chelmsfordcentral"
+    }
+  ]
+}
