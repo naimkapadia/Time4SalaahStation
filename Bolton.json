@@ -1,0 +1,41 @@
+{
+  "city": "Bolton",
+  "stations": [
+    {
+      "name": "Adam Masjid",
+      "url": "http://relay.emasjidlive.uk/adammasjid"
+    },
+    {
+      "name": "Ashrafia Masjid",
+      "url": "http://relay.emasjidlive.uk/ashrafiamasjid"
+    },
+    {
+      "name": "Makki Masjid Bolton",
+      "url": "http://relay.emasjidlive.uk/makkimasjidbolton"
+    },
+    {
+      "name": "Masjid Ali Bolton",
+      "url": "http://relay.emasjidlive.uk/masjidalibolton"
+    },
+    {
+      "name": "Taiyabah Masjid",
+      "url": "http://relay.emasjidlive.uk/taiyabahmasjid"
+    },
+    {
+      "name": "Alfalah Bolton",
+      "url": "http://relay.emasjidlive.uk/alfalahbolton"
+    },
+    {
+      "name": "Azhar Academy Bolton",
+      "url": "http://relay.emasjidlive.uk/azharacademybolton"
+    },
+    {
+      "name": "Al Rahman",
+      "url": "http://relay.emasjidlive.uk/alrahman"
+    },
+    {
+      "name": "ZJM Bolton",
+      "url": "http://relay.emasjidlive.uk/zjmbolton"
+    }
+  ]
+}
