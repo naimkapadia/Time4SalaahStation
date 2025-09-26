@@ -1,0 +1,7 @@
+{
+  "cities": [
+    { "name": "QuranRadio", "url": "https://example.com/QuranRadio.json" },
+    { "name": "Ashton-Under-Lyne", "url": "https://example.com/Ashton-Under-Lyne.json" },
+    { "name": "Batley", "url": "https://example.com/Batley.json" }
+  ]
+}
