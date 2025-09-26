@@ -1,0 +1,6 @@
+{
+  "city": "Ashton-Under-Lyne",
+  "stations": [
+    { "name": "Masjid e Hamzah", "url": "http://relay.emasjidlive.uk/masjidehamzah" }
+  ]
+}
