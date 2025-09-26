@@ -1,0 +1,37 @@
+
+  "city": "Leeds",
+  "stations": [
+    {
+      "name": "Darul Huda Leeds",
+      "url": "http://relay.emasjidlive.uk/darulhudaleeds"
+    },
+    {
+      "name": "Masjid Ibraheem",
+      "url": "http://relay.emasjidlive.uk/masjidibraheem"
+    },
+    {
+      "name": "Masjid Quba Leeds",
+      "url": "http://relay.emasjidlive.uk/masjidqubaleeds"
+    },
+    {
+      "name": "Zia Ul Quran Leeds",
+      "url": "http://relay.emasjidlive.uk/ziaulquranleeds"
+    },
+    {
+      "name": "Masjid Abu Bakr",
+      "url": "http://relay.emasjidlive.uk/masjidabubakrleeds"
+    },
+    {
+      "name": "Masjid Umar Leeds",
+      "url": "http://relay.emasjidlive.uk/masjidumarleeds"
+    },
+    {
+      "name": "Shah Jalal Masjid",
+      "url": "http://relay.emasjidlive.uk/shahjalalmasjid"
+    },
+    {
+      "name": "Wortley Jamia Masjid",
+      "url": "http://relay.emasjidlive.uk/wortleyjamiamasjid"
+    }
+  ]
+}
