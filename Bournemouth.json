@@ -1,0 +1,9 @@
+{
+  "city": "Bournemouth",
+  "stations": [
+    {
+      "name": "BJ Mosque",
+      "url": "http://relay.emasjidlive.uk/bjmosque"
+    }
+  ]
+}
