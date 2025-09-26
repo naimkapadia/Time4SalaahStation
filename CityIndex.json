@@ -5,7 +5,8 @@
     { "name": "Batley", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Batley.json" },
     { "name": "Bedford", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Bedford.json" },
     { "name": "Birmingham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Birmingham.json" },
-    { "name": "Blackburn", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Blackburn.json" }, 
+    { "name": "Blackburn", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Blackburn.json" },
+    { "name": "Bolton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Bolton.json" }, 
     { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" }
     ]
 }
