@@ -1,0 +1,45 @@
+{
+  "city": "Glasgow",
+  "stations": [
+    {
+      "name": "Al Khalil College",
+      "url": "http://relay.emasjidlive.uk/alkhalilcollege"
+    },
+    {
+      "name": "Ibrahim Masjid",
+      "url": "http://relay.emasjidlive.uk/ibrahimmasjid"
+    },
+    {
+      "name": "Lanarkshire Mosque",
+      "url": "http://relay.emasjidlive.uk/lanarkshiremosque"
+    },
+    {
+      "name": "Ta\u2019alimul Islam",
+      "url": "http://relay.emasjidlive.uk/mtiglasgow"
+    },
+    {
+      "name": "Newton Mearns",
+      "url": "http://relay.emasjidlive.uk/nmislamiccentre"
+    },
+    {
+      "name": "Glasgow Mosque",
+      "url": "http://relay.emasjidlive.uk/glasgowmosque"
+    },
+    {
+      "name": "Islamic Education Trust",
+      "url": "http://relay.emasjidlive.uk/cumbernauldmasjid"
+    },
+    {
+      "name": "Madni Masjid",
+      "url": "http://relay.emasjidlive.uk/madni_masjid"
+    },
+    {
+      "name": "Masjid Omar",
+      "url": "http://relay.emasjidlive.uk/masjidomar"
+    },
+    {
+      "name": "Zakaria Masjid",
+      "url": "http://relay.emasjidlive.uk/zmmasjidmotherwell"
+    }
+  ]
+}
