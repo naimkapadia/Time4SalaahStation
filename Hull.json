@@ -1,0 +1,9 @@
+{
+  "city": "Hull",
+  "stations": [
+    {
+      "name": "As-Suffa",
+      "url": "http://relay.emasjidlive.uk/as_suffa"
+    }
+  ]
+}
