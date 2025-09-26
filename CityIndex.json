@@ -1,6 +1,6 @@
 {
   "cities": [
-    { "name": "QuranRadio", "url": "https://github.com/naimkapadia/Time4SalaahStation/blob/main/QuranRadio.json" },
+    { "name": "QuranRadio", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Ashton-Under-Lyne.json" },
     { "name": "Ashton-Under-Lyne", "url": "https://github.com/naimkapadia/Time4SalaahStation/blob/main/Ashton-Under-Lyne.json" }
    ]
 }
