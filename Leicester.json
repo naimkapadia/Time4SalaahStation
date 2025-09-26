@@ -1,0 +1,57 @@
+{
+  "city": "Leicester",
+  "stations": [
+    {
+      "name": "Al Ehsaan Academy",
+      "url": "http://relay.emasjidlive.uk/alehsaanacademy"
+    },
+    {
+      "name": "Peace Centre",
+      "url": "http://relay.emasjidlive.uk/peacecentre"
+    },
+    {
+      "name": "Knighton masjid",
+      "url": "http://relay.emasjidlive.uk/knightonmasjid"
+    },
+    {
+      "name": "Darul Arqam",
+      "url": "http://relay.emasjidlive.uk/darularqameducationaltrust"
+    },
+    {
+      "name": "Jame Masjid",
+      "url": "http://relay.emasjidlive.uk/jamemasjid"
+    },
+    {
+      "name": "Madani Masjid",
+      "url": "http://relay.emasjidlive.uk/madanimasjid"
+    },
+    {
+      "name": "Masjid Aisha",
+      "url": "http://relay.emasjidlive.uk/Masjidaisha"
+    },
+    {
+      "name": "Abdullah ibn Masud",
+      "url": "http://relay.emasjidlive.uk/abdullahibnmasud"
+    },
+    {
+      "name": "Imam-il-Bukhari",
+      "url": "http://relay.emasjidlive.uk/bukhari"
+    },
+    {
+      "name": "Darul Ihsaan",
+      "url": "http://relay.emasjidlive.uk/darulihsaan"
+    },
+    {
+      "name": "Masjid Adam",
+      "url": "http://relay.emasjidlive.uk/masjidadamoadby"
+    },
+    {
+      "name": "Muadh ibn Jabal",
+      "url": "http://relay.emasjidlive.uk/muadhibnjabal"
+    },
+    {
+      "name": "Masjid Al Furqan",
+      "url": "http://relay.emasjidlive.uk/masjidalfurqan"
+    }
+  ]
+}
