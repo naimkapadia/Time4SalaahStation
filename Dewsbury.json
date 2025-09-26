@@ -1,0 +1,65 @@
+{
+  "city": "Dewsbury",
+  "stations": [
+    {
+      "name": "Darul Ilm",
+      "url": "http://relay.emasjidlive.uk/darulilmdewsbury"
+    },
+    {
+      "name": "Islamic Tarbiyah",
+      "url": "http://relay.emasjidlive.uk/ita"
+    },
+    {
+      "name": "Madina Academy",
+      "url": "http://relay.emasjidlive.uk/madina_academy"
+    },
+    {
+      "name": "Masjid Assalaam",
+      "url": "http://relay.emasjidlive.uk/masjidassalaam"
+    },
+    {
+      "name": "Masjid Heera",
+      "url": "http://relay.emasjidlive.uk/masjidheera"
+    },
+    {
+      "name": "Masjid Talha",
+      "url": "http://relay.emasjidlive.uk/talha"
+    },
+    {
+      "name": "Masjid Bilal",
+      "url": "http://relay.emasjidlive.uk/masjidbilaldewsbury"
+    },
+    {
+      "name": "Zakaria Masjid",
+      "url": "http://relay.emasjidlive.uk/zakariamasjid"
+    },
+    {
+      "name": "Ilaahi",
+      "url": "http://relay.emasjidlive.uk/ilaahi"
+    },
+    {
+      "name": "Alhira",
+      "url": "http://relay.emasjidlive.uk/alhira"
+    },
+    {
+      "name": "Madni Masjid",
+      "url": "http://relay.emasjidlive.uk/madnimasjiddewsburytown"
+    },
+    {
+      "name": "Masjid Baitut Tauheed",
+      "url": "http://relay.emasjidlive.uk/masjidbaituttauheed"
+    },
+    {
+      "name": "Masjid Noor",
+      "url": "http://relay.emasjidlive.uk/masjidnoordewsbury"
+    },
+    {
+      "name": "Masjid Urrahman",
+      "url": "http://relay.emasjidlive.uk/masjidurrahman"
+    },
+    {
+      "name": "MEU",
+      "url": "http://relay.emasjidlive.uk/meudewsbury"
+    }
+  ]
+}
