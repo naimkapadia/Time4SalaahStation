@@ -15,7 +15,10 @@
     { "name": "Cheltenham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Cheltenham.json" },
     { "name": "Colchester", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Colchester.json" },
     { "name": "Coventry", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Coventry.json" },
-    { "name": "Coventry", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Coventry.json" },
+    { "name": "Darlaston", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Darlaston.json" },
+    { "name": "Derby", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Derby.json" },
+    { "name": "Dewsbury", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dewsbury.json" },
+    { "name": "Dewsbury", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dewsbury.json" },
     { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" }
     ]
 }
