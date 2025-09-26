@@ -1,0 +1,9 @@
+{
+  "city": "Bristol",
+  "stations": [
+    {
+      "name": "Greenbank",
+      "url": "http://relay.emasjidlive.uk/greenbankmasjid"
+    }
+  ]
+}
