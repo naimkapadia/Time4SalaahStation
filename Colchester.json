@@ -1,0 +1,9 @@
+{
+  "city": "Colchester",
+  "stations": [
+    {
+      "name": "Colchester Jamia",
+      "url": "http://relay.emasjidlive.uk/colchestermosque"
+    }
+  ]
+}
