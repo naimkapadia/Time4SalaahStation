@@ -1,0 +1,9 @@
+{
+  "city": "Kidderminster",
+  "stations": [
+    {
+      "name": "Amanah Masjid",
+      "url": "http://relay.emasjidlive.uk/amanahmasjid"
+    }
+  ]
+}
