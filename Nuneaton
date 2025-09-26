@@ -1,0 +1,9 @@
+{
+  "city": "Nuneaton",
+  "stations": [
+    {
+      "name": "Jami Masjid",
+      "url": "http://relay.emasjidlive.uk/nuneatonmasjid"
+    }
+  ]
+}
