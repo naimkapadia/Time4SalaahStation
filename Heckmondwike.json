@@ -1,0 +1,9 @@
+{
+  "city": "Heckmondwike",
+  "stations": [
+    {
+      "name": "Masjid Ali",
+      "url": "http://relay.emasjidlive.uk/masjidali"
+    }
+  ]
+}
