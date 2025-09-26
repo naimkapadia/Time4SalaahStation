@@ -1,0 +1,9 @@
+{
+  "city": "Cheltenham",
+  "stations": [
+    {
+      "name": "Masjid Al Madina",
+      "url": "http://relay.emasjidlive.uk/masjidalmadina"
+    }
+  ]
+}
