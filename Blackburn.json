@@ -1,0 +1,61 @@
+{
+  "city": "Blackburn",
+  "stations": [
+    {
+      "name": "Jaame Masjid Blackburn",
+      "url": "http://relay.emasjidlive.uk/jaamemasjidblackburn"
+    },
+    {
+      "name": "MMI Greatharwood",
+      "url": "http://relay.emasjidlive.uk/mmigreatharwood"
+    },
+    {
+      "name": "Masjid E Anisul Islam",
+      "url": "http://relay.emasjidlive.uk/masjideanisulislam"
+    },
+    {
+      "name": "Masjid Evali",
+      "url": "http://relay.emasjidlive.uk/masjidevali"
+    },
+    {
+      "name": "Masjide Bilaal",
+      "url": "http://relay.emasjidlive.uk/masjidebilaal"
+    },
+    {
+      "name": "Masjide Rizwan",
+      "url": "http://relay.emasjidlive.uk/masjiderizwan"
+    },
+    {
+      "name": "Masjide Noorul Islam",
+      "url": "http://relay.emasjidlive.uk/masjidenoorulislam"
+    },
+    {
+      "name": "Markaz Ululoom",
+      "url": "http://relay.emasjidlive.uk/markazululoom"
+    },
+    {
+      "name": "Masjid Al Momineen",
+      "url": "http://relay.emasjidlive.uk/masjidalmomineen"
+    },
+    {
+      "name": "Masjide Sajedeen",
+      "url": "http://relay.emasjidlive.uk/masjidesajedeen"
+    },
+    {
+      "name": "Masjide Anwaar",
+      "url": "http://relay.emasjidlive.uk/masjid_e_anwaar"
+    },
+    {
+      "name": "Masjid Quwwatul Islam",
+      "url": "http://relay.emasjidlive.uk/masjidquwwatulislam"
+    },
+    {
+      "name": "Masjid Saliheen",
+      "url": "http://relay.emasjidlive.uk/masjid_saliheen"
+    },
+    {
+      "name": "Musalla Maryam",
+      "url": "http://relay.emasjidlive.uk/musallamaryam"
+    }
+  ]
+}
