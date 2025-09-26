@@ -1,0 +1,9 @@
+{
+  "city": "Elland",
+  "stations": [
+    {
+      "name": "Elland Masjid",
+      "url": "http://relay.emasjidlive.uk/ellandmasjid"
+    }
+  ]
+}
