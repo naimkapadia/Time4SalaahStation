@@ -20,6 +20,14 @@
     { "name": "Dewsbury", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dewsbury.json" },
     { "name": "Dundee", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dundee.json" },
     { "name": "Edinburgh", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Edinburgh.json" },
+    { "name": "Elland", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Elland.json" },
+    { "name": "Essex", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Essex.json" },
+    { "name": "Falkirk", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Falkirk.json" },
+    { "name": "Glasgow", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Glasgow.json" },
+    { "name": "Heckmondwike", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Heckmondwike.json" },
+    { "name": "Huddersfield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Huddersfield.json" },
+    { "name": "Hull", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Hull.json" },
+    { "name": "Hull", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Hull.json" },
     { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" }
     ]
 }
