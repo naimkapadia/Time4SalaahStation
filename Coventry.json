@@ -1,0 +1,25 @@
+{
+  "city": "Coventry",
+  "stations": [
+    {
+      "name": "Zeenatul Islam Coventry",
+      "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry"
+    },
+    {
+      "name": "Masjide Zakariya",
+      "url": "http://relay.emasjidlive.uk/masjidezakariya"
+    },
+    {
+      "name": "UEWT",
+      "url": "http://relay.emasjidlive.uk/uewt"
+    },
+    {
+      "name": "TQ Trust",
+      "url": "http://relay.emasjidlive.uk/tqtrust"
+    },
+    {
+      "name": "Islamic Academy",
+      "url": "http://relay.emasjidlive.uk/islamicacademycoventry"
+    }
+  ]
+}
