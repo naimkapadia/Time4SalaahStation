@@ -4,6 +4,7 @@
     { "name": "Ashton-Under-Lyne", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Ashton-Under-Lyne.json" },
     { "name": "Batley", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Batley.json" },
     { "name": "Bedford", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Bedford.json" },
+    { "name": "Birmingham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Birmingham.json" }, 
     { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" }
     ]
 }
