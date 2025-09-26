@@ -1,0 +1,13 @@
+{
+  "city": "Huddersfield",
+  "stations": [
+    {
+      "name": "Jamia Masjid Noor",
+      "url": "http://relay.emasjidlive.uk/jamiamasjidnoor"
+    },
+    {
+      "name": "Masjid Usman",
+      "url": "http://relay.emasjidlive.uk/masjidusman"
+    }
+  ]
+}
