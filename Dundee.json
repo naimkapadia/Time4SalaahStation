@@ -1,0 +1,9 @@
+{
+  "city": "Dundee",
+  "stations": [
+    {
+      "name": "Central Mosque",
+      "url": "http://relay.emasjidlive.uk/dundeecentralmosque"
+    }
+  ]
+}
