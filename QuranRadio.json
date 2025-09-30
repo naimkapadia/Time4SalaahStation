@@ -4,6 +4,6 @@
     { "name": "Emasjid Quran", "url": "http://relay.emasjidlive.uk/quraan" },
     { "name": "Emasjid Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
     { "name": "MyMasjid Qiraat", "url": "https://lb.mymasjid.stream/qiraat" },
-    { "name": "Quran with English", "url": "https://stream-162.zeno.fm/ru2hqnplhk7uv" type="audio/mpeg">" }
+    { "name": "Quran with English", "url": "https://stream-162.zeno.fm/ru2hqnplhk7uv", type="audio/mpeg">" }
   ]
 }
