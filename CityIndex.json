@@ -18,6 +18,7 @@
     { "name": "Darlaston", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Darlaston.json" },
     { "name": "Derby", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Derby.json" },
     { "name": "Dewsbury", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dewsbury.json" },
+    { "name": "Dudley", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dudley.json" },
     { "name": "Dundee", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Dundee.json" },
     { "name": "Edinburgh", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Edinburgh.json" },
     { "name": "Elland", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Elland.json" },
@@ -45,6 +46,7 @@
     { "name": "Sheffield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Sheffield.json" },
     { "name": "Sutton Coldfield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/SuttonColdfield.json" },
     { "name": "Telford", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Telford.json" },
+    { "name": "Wakefield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Wakefield.json" },
     { "name": "Walsall", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Waslsall.json" },
     { "name": "Wigan", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Wigan.json" },
     { "name": "Wolverhampton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Wolverhampton.json" }
