@@ -30,7 +30,23 @@
     { "name": "Kiderminister", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Kidderminster.json" },
     { "name": "Leeds", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Leeds.json" },
     { "name": "Leicester", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Leicester.json" },
-    { "name": "London  East", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
-    { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" }
+    { "name": "London East", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "London North", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Loughborough", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Luton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Manchester", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Newcastle-Upon-Tyne", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Nuneaton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Nuneaton.json" },
+    { "name": "Oldham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Peterborough", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Preston", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Rotherham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Scunthorpe", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Sheffield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Sutton Coldfield", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Telford", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Walsall", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Wigan", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" },
+    { "name": "Wolverhampton", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/LondonEast.json" }
     ]
 }
