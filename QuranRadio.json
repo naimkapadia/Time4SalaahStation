@@ -3,7 +3,7 @@
   "stations": [
     { "name": "Emasjid Quran", "url": "http://relay.emasjidlive.uk/quraan" },
     { "name": "Emasjid Almubarakradio", "url": "http://relay.emasjidlive.uk/almubarakradio" },
-    { "name": "MyMasjid Qiraat", "url": "https://lb.mymasjid.stream/qiraat" };
+    { "name": "MyMasjid Qiraat", "url": "https://lb.mymasjid.stream/qiraat" },
     { "name": "Quran with English", "url": "https://stream.zeno.fm/ru2hqnplhk7uv" }
   ]
 }
