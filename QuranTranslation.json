@@ -24,16 +24,9 @@
     { "name": " Amharic Ethopia Islam", "url": "http://104.7.66.64:8000/;?icy=http" },   
     { "name": "Chinese Islamic Radio ", "url": "http://104.7.66.64:8002/;?icy=http" },   
     { "name": "Malay Radio Islam", "url": "http://104.7.66.64:8008/;?icy=http" },  
-    { "name": "Filipino Radio Islam", "url": "http://104.7.66.64:8008/;?icy=http" }, 
-    { "name": "Malay Radio Islam", "url": "http://104.7.66.64:8008/;?icy=http" },  
-
-
-
-
-
-    
+    { "name": "Filipino Radio Islam", "url": "http://104.7.66.64:8009/;?icy=http" }, 
+    { "name": "Unity FM", "url": "http://radio.canstream.co.uk:8096/live.aac" },  
     { "name": "Urdu Radio", "url": "http://104.7.66.64:8092/;?icy=http" },
-    
-    { "name": "Quran with English", "url": "http://stream-162.zeno.fm/ru2hqnplhk7uv" }
+    { "name": "Birmingham Central Mosque Radio Station", "url": "https://cast6.asurahosting.com/proxy/syed/stream" }
   ]
 }
