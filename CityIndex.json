@@ -1,7 +1,6 @@
 {
   "cities": [
-    { "name": "QuranRadio", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/QuranRadio.json" },  
-    { "name": "QuranTranslation", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/QuranTranslation.json" },    
+    { "name": "QuranRadio", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/QuranRadio.json" },   
     { "name": "Ashton-Under-Lyne", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Ashton-Under-Lyne.json" },
     { "name": "Batley", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Batley.json" },
     { "name": "Bedford", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Bedford.json" },
