@@ -1,1 +1,9 @@
-
+{
+  "city": "Preston",
+  "stations": [
+    {
+      "name": "Masjid Saliheen",
+      "url": "http://relay.emasjidlive.uk/masjidesaliheen"
+    }
+  ]
+}
