@@ -1,1 +1,9 @@
-
+{
+  "city": "Nottingham",
+  "stations": [
+    {
+      "name": "Masjid khazra",
+      "url": "http://relay.emasjidlive.uk/al_khazra"
+    }
+  ]
+}
