@@ -1,1 +1,13 @@
-
+{
+  "city": "Oldham",
+  "stations": [
+    {
+      "name": "Madinatul Ilm",
+      "url": "http://relay.emasjidlive.uk/madinatulilm"
+    },
+     {
+      "name": "Nusratul Islam",
+      "url": "http://relay.emasjidlive.uk/Nusratulislam"
+    }
+  ]
+}
