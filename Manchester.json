@@ -1,1 +1,21 @@
-
+{
+  "city": "Manchester",
+  "stations": [
+    {
+      "name": "Assalaam Centre",
+      "url": "http://relay.emasjidlive.uk/assalaamcentre"
+    },
+     {
+      "name": "Masjid Noor",
+      "url": "http://relay.emasjidlive.uk/masjidnoorluton"
+    },
+     {
+      "name": "Masjid Irshad",
+      "url": "http://relay.emasjidlive.uk/masjidirshad"
+    },
+    {
+      "name": "Zakariya Masjid",
+      "url": "http://relay.emasjidlive.uk/zakariyamasjid"
+    }
+  ]
+}
