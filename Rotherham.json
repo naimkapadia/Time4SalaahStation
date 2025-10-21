@@ -1,1 +1,9 @@
-
+{
+  "city": "Rotherham",
+  "stations": [
+    {
+      "name": "Masjid Ibrahim",
+      "url": "http://relay.emasjidlive.uk/masjidibrahimrotherham"
+    }
+  ]
+}
