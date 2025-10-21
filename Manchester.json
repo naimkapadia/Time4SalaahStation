@@ -6,16 +6,12 @@
       "url": "http://relay.emasjidlive.uk/assalaamcentre"
     },
      {
-      "name": "Masjid Noor",
-      "url": "http://relay.emasjidlive.uk/masjidnoorluton"
+      "name": "Masjid-e-Noor",
+      "url": "http://relay.emasjidlive.uk/masjidenoor_manchester"
     },
      {
-      "name": "Masjid Irshad",
-      "url": "http://relay.emasjidlive.uk/masjidirshad"
-    },
-    {
-      "name": "Zakariya Masjid",
-      "url": "http://relay.emasjidlive.uk/zakariyamasjid"
-    }
+      "name": "Masjid-e-Hidayah",
+      "url": "http://relay.emasjidlive.uk/masjidehidayah_manchester"
+     }
   ]
 }
