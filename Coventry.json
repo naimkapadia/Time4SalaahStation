@@ -1,6 +1,10 @@
 {
   "city": "Coventry",
   "stations": [
+      {
+      "name": "AlAqsaa Red Lane",
+      "url": "https://lb.mymasjid.stream/redlanecv"
+    },   
     {
       "name": "Zeenatul Islam Coventry",
       "url": "http://relay.emasjidlive.uk/zeenatul_islam_coventry"
