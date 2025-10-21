@@ -1,1 +1,9 @@
-
+{
+  "city": "Newcastle-Upon-Tyne",
+  "stations": [
+    {
+      "name": "Jame Masjid",
+      "url": "http://relay.emasjidlive.uk/stjamemasjid"
+    }
+  ]
+}
