@@ -1,1 +1,9 @@
-
+{
+  "city": "Loughborough",
+  "stations": [
+    {
+      "name": "Al Manaar Academy",
+      "url": "http://relay.emasjidlive.uk/almanaaracademy"
+    }
+  ]
+}
