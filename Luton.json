@@ -1,1 +1,21 @@
-
+{
+  "city": "Luton",
+  "stations": [
+    {
+      "name": "Masjid-as-Sunnah",
+      "url": "http://relay.emasjidlive.uk/masjidassunnah"
+    },
+     {
+      "name": "Masjid Noor",
+      "url": "http://relay.emasjidlive.uk/masjidnoorluton"
+    },
+     {
+      "name": "Masjid Irshad",
+      "url": "http://relay.emasjidlive.uk/masjidirshad"
+    },
+    {
+      "name": "Zakariya Masjid",
+      "url": "http://relay.emasjidlive.uk/zakariyamasjid"
+    }
+  ]
+}
