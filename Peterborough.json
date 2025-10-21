@@ -1,1 +1,9 @@
-
+{
+  "city": "Peterborough",
+  "stations": [
+    {
+      "name": "Darassalaam",
+      "url": "http://relay.emasjidlive.uk/darassalaam"
+    }
+  ]
+}
