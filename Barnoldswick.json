@@ -1,1 +1,9 @@
-
+{
+  "city": "Barnoldswickic",
+  "stations": [
+    {
+      "name": "Islamic Centre",
+      "url": "https://lb.mymasjid.stream/barnoldswickic"
+    }
+  ]
+}
