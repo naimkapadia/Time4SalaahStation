@@ -1,1 +1,9 @@
-
+{
+  "city": "Banbury",
+  "stations": [
+    {
+      "name": "Banbury Madni",
+      "url": "https://lb.mymasjid.stream/banburymadni"
+    }
+  ]
+}
