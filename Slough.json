@@ -1,1 +1,9 @@
-
+{
+  "city": "Slough",
+  "stations": [
+    {
+      "name": "Nuneaton",
+      "url": "http://relay.emasjidlive.uk/nuneaton"
+    }
+  ]
+}
