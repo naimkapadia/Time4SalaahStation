@@ -37,94 +37,85 @@
       "name": "ZJM Bolton",
       "url": "http://relay.emasjidlive.uk/zjmbolton"
     },
- {
+    {
       "name": "Al Jamiatul Islamiyah",
       "url": "https://lb.mymasjid.stream/duloombolton"
     },
-     {
+    {
       "name": "Al Masjid AlAqsa",
       "url": "https://lb.mymasjid.stream/aqsabolton"
     },
-     {
+    {
       "name": "Alhuda Academy",
-       "url": "https://lb.mymasjid.stream/alhudabolton"
+      "url": "https://lb.mymasjid.stream/alhudabolton"
     },
-     {
+    {
       "name": "AlJamia Darul Quran",
-       "url": "https://lb.mymasjid.stream/dq"
+      "url": "https://lb.mymasjid.stream/dq"
     },
-     {
+    {
       "name": "As Suffah Academy",
-       "url": "https://lb.mymasjid.stream/assuffahbolton"
+      "url": "https://lb.mymasjid.stream/assuffahbolton"
     },
-     {
+    {
       "name": "Darul Ilm Centre",
-       "url": "https://lb.mymasjid.stream/dilmbolto"
+      "url": "https://lb.mymasjid.stream/dilmbolto"
     },
-     {
+    {
       "name": "Faizane Madinah",
-       "url": "https://lb.mymasjid.stream/fembolton"
+      "url": "https://lb.mymasjid.stream/fembolton"
     },
-     {
+    {
       "name": "Imaan Masjid",
-       "url": "https://lb.mymasjid.stream/imaanbolton"
+      "url": "https://lb.mymasjid.stream/imaanbolton"
     },
-     {
+    {
       "name": "Makki Muslim Society",
-       "url": "https://lb.mymasjid.stream/makkimasjidbolton"
+      "url": "https://lb.mymasjid.stream/makkimasjidbolton"
     },
-     {
+    {
       "name": "Masjid Al-Aleef",
-       "url": "https://lb.mymasjid.stream/aleefbolton"
+      "url": "https://lb.mymasjid.stream/aleefbolton"
     },
-     {
+    {
       "name": "Masjid At-Towfiiq",
-       "url": "https://lb.mymasjid.stream/towfiiqbolton"
+      "url": "https://lb.mymasjid.stream/towfiiqbolton"
     },
-     {
-      "name": "Masjid- E Ghosia",
+    {
+      "name": "Masjid-e-Ghosia",
       "url": "https://lb.mymasjid.stream/ghosiabolton"
     },
-     {
+    {
       "name": "Mecca Mosque",
-       "url": "https://lb.mymasjid.stream/meccabolton"
+      "url": "https://lb.mymasjid.stream/meccabolton"
     },
-     {
+    {
       "name": "Zakariyya Jaame Masjid",
-       "url": "https://lb.mymasjid.stream/zjm"
+      "url": "https://lb.mymasjid.stream/zjm"
     },
-     {
+    {
       "name": "Masjid Al Falah",
       "url": "http://relay.emasjidlive.uk/falahbolton"
     },
-     {
+    {
       "name": "Masjid-e-Noor",
-       "url": "https://lb.mymasjid.stream/noorbolton"
+      "url": "https://lb.mymasjid.stream/noorbolton"
     },
-     {
+    {
       "name": "Ummah Masjid",
-       "url": "https://lb.mymasjid.stream/ummahbolton"
+      "url": "https://lb.mymasjid.stream/ummahbolton"
     },
-     {
+    {
       "name": "Al jamiatulIslamiyah",
-       "url": "https://lb.mymasjid.stream/duloombolton"
+      "url": "https://lb.mymasjid.stream/duloombolton"
     },
-     {
-      "name": "Mymasjid",
-       "url": "https://lb.mymasjid.stream/aqsabolton"
+    {
+      "name": "Tafseer-Raheemi",
+      "url": "https://lb.mymasjid.stream/hlce"
     },
-     {
-      "name": "Mymasjid",
-       "url": "https://lb.mymasjid.stream/aqsabolton"
-    },
-     {
-      "name": "Mymasjid",
-       "url": "https://lb.mymasjid.stream/aqsabolton"
-    },
-     {
-      "name": "Mymasjid",
-       "url": "https://lb.mymasjid.stream/aqsabolton"
-    },
-
+    {
+      "name": "Masjid-eNoorul Islam",
+      "url": "https://lb.mymasjid.stream/noorulbolton"
+    }
   ]
 }
