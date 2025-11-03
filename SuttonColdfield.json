@@ -1,1 +1,10 @@
+{
+  "city": "sutton Coldfield",
+  "stations": [
+    {
+      "name": "Sutton Coldfield Masjid",
+      "url": "http://relay.emasjidlive.uk/suttoncoldfieldmasjid"
+    }
+  ]
+}
 
