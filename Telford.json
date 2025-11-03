@@ -1,1 +1,9 @@
-
+{
+  "city": "Telford",
+  "stations": [
+    {
+      "name": "Telford Central Mosque",
+      "url": "http://relay.emasjidlive.uk/telfordcentralmosque"
+    }
+  ]
+}
