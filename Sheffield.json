@@ -1,1 +1,29 @@
-
+{
+  "city": "Sheffield",
+  "stations": [
+    {
+      "name": "AlHuda Academy",
+      "url": "http://relay.emasjidlive.uk/alhudaacademy"
+    },
+     {
+      "name": "Makki Mosque",
+      "url": "http://relay.emasjidlive.uk/makkimosque"
+    },
+     {
+      "name": "Markazi Jamia",
+      "url": "http://relay.emasjidlive.uk/mjm"
+    },
+     {
+      "name": "Masjid Abu Bakr",
+      "url": "http://relay.emasjidlive.uk/masjidabubakr"
+    },
+     {
+      "name": "Masjid Umar",
+      "url": "http://relay.emasjidlive.uk/masjidumar"
+    },
+     {
+      "name": "Yorkshire Muslim Academy",
+      "url": "http://relay.emasjidlive.uk/yma"
+    }
+  ]
+}
