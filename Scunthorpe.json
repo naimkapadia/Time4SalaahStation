@@ -1,1 +1,13 @@
-
+{
+  "city": "Scunthorpe",
+  "stations": [
+    {
+      "name": "Central Mosque",
+      "url": "http://relay.emasjidlive.uk/scunthorpecentralmosque"
+    },
+      {
+      "name": "Islamic Centre",
+      "url": "http://relay.emasjidlive.uk/scunthorpeislamiccentre"
+    }
+  ]
+}
