@@ -1,1 +1,21 @@
-
+{
+  "city": "Walsall",
+  "stations": [
+    {
+      "name": "Alhidayah Foundation",
+      "url": "http://relay.emasjidlive.uk/alhidayahfoundation"
+    },
+     {
+      "name": "Bilal Academy",
+      "url": "http://relay.emasjidlive.uk/bilalacademy"
+    },
+     {
+      "name": "Masjid AlFarouq",
+      "url": "http://relay.emasjidlive.uk/masjidalfarouqwalsall"
+    },
+    {
+      "name": "Masjide Usman",
+      "url": "http://relay.emasjidlive.uk/masjideusman"
+    }
+  ]
+}
