@@ -2,7 +2,7 @@
   "city": "Blackburn",
   "stations": [
     {
-      "name": "Jaame Masjid Blackburn",
+      "name": "Jaame Masjid",
       "url": "http://relay.emasjidlive.uk/jaamemasjidblackburn"
     },
     {
@@ -10,7 +10,7 @@
       "url": "http://relay.emasjidlive.uk/mmigreatharwood"
     },
     {
-      "name": "Masjid E Anisul Islam",
+      "name": "Masjid-e-Anisul Islam",
       "url": "http://relay.emasjidlive.uk/masjideanisulislam"
     },
     {
@@ -56,6 +56,46 @@
     {
       "name": "Musalla Maryam",
       "url": "http://relay.emasjidlive.uk/musallamaryam"
-    }
+    },
+    {
+      "name": "Jamia Ghosia",
+      "url": "https://lb.mymasjid.stream/jamiaghosiabbn"
+    },
+     {
+      "name": "Masjid-e-Taqwa",
+      "url": "https://lb.mymasjid.stream/taqwabbn"
+    },
+     {
+      "name": "Mohaddis-e-Azam",
+      "url": "https://lb.mymasjid.stream/mamissionbbn"
+    },
+     {
+      "name": "Jamia Syeda Fatima Al Zahra",
+      "url": "https://lb.mymasjid.stream/fatimaalzahrabbn""
+    },
+     {
+      "name": "Masjid Al-Hidayah",
+      "url": "https://lb.mymasjid.stream/hidayahbbn"
+    },
+     {
+      "name": "Masjid Anisul Islam",
+      "url": "https://lb.mymasjid.stream/anisulbbn"
+    },
+     {
+      "name": "Masjid-e-Anwaar",
+      "url": "https://lb.mymasjid.stream/anwaarbbn"
+    },
+     {
+      "name": "Masjid-eGhousiya",
+      "url": "https://lb.mymasjid.stream/ghausiabbnlem"
+    },
+    {
+      "name": "Masjid-e-Irfan",
+      "url": "https://lb.mymasjid.stream/irfanbbn"
+    }, 
+      {
+      "name": "Masjide Noorul Islam",
+      "url": "https://lb.mymasjid.stream/noorulbbn"
+    }     
   ]
 }
