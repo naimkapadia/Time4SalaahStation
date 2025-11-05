@@ -1,9 +1,17 @@
 {
-"city": "Batley",
+  "city": "Batley",
   "stations": [
+    {
+      "name": "Ali Ehsan Trust",
+      "url": "http://relay.emasjidlive.uk/alihsantrust"
+    },
     {
       "name": "Alhashim Academy",
       "url": "http://relay.emasjidlive.uk/alhashimacademy"
+    },
+    {
+      "name": "AZI",
+      "url": "http://relay.emasjidlive.uk/azi"
     },
     {
       "name": "Dawatal",
@@ -22,28 +30,20 @@
       "url": "http://relay.emasjidlive.uk/masjidnoorbatley"
     },
     {
-      "name": "Taqwa",
-      "url": "http://relay.emasjidlive.uk/taqwa"
+      "name": "Mpit Madina",
+      "url": "http://relay.emasjidlive.uk/mpitmadina"
+    },
+    {
+      "name": "Quba",
+      "url": "http://relay.emasjidlive.uk/quba"
     },
     {
       "name": "Snowdon Masjid",
       "url": "http://relay.emasjidlive.uk/snowdonmasjid"
     },
     {
-      "name": "Ali Ehsan Trust",
-      "url": "http://relay.emasjidlive.uk/alihsantrust"
-    },
-    {
-      "name": "Mpit Madina",
-      "url": "http://relay.emasjidlive.uk/mpitmadina"
-    },
-    {
-      "name": "AZI",
-      "url": "http://relay.emasjidlive.uk/azi"
-    },
-    {
-      "name": "Quba",
-      "url": "http://relay.emasjidlive.uk/quba"
+      "name": "Taqwa",
+      "url": "http://relay.emasjidlive.uk/taqwa"
     }
   ]
 }
