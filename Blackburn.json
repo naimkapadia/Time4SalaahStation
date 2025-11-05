@@ -6,44 +6,44 @@
       "url": "http://relay.emasjidlive.uk/jaamemasjidblackburn"
     },
     {
-      "name": "MMI Greatharwood",
-      "url": "http://relay.emasjidlive.uk/mmigreatharwood"
+      "name": "Jamia Ghosia",
+      "url": "http://lb.mymasjid.stream/jamiaghosiabbn"
     },
     {
-      "name": "Masjid-e-Anisul Islam",
-      "url": "http://relay.emasjidlive.uk/masjideanisulislam"
-    },
-    {
-      "name": "Masjid Evali",
-      "url": "http://relay.emasjidlive.uk/masjidevali"
-    },
-    {
-      "name": "Masjide Bilaal",
-      "url": "http://relay.emasjidlive.uk/masjidebilaal"
-    },
-    {
-      "name": "Masjide Rizwan",
-      "url": "http://relay.emasjidlive.uk/masjiderizwan"
-    },
-    {
-      "name": "Masjide Noorul Islam",
-      "url": "http://relay.emasjidlive.uk/masjidenoorulislam"
+      "name": "Jamia Syeda Fatima Al Zahra",
+      "url": "http://lb.mymasjid.stream/fatimaalzahrabbn"
     },
     {
       "name": "Markaz Ululoom",
       "url": "http://relay.emasjidlive.uk/markazululoom"
     },
     {
+      "name": "MMI Greatharwood",
+      "url": "http://relay.emasjidlive.uk/mmigreatharwood"
+    },
+    {
+      "name": "Mohaddis-e-Azam",
+      "url": "http://lb.mymasjid.stream/mamissionbbn"
+    },
+    {
+      "name": "Musalla Maryam",
+      "url": "http://relay.emasjidlive.uk/musallamaryam"
+    },
+    {
       "name": "Masjid Al Momineen",
       "url": "http://relay.emasjidlive.uk/masjidalmomineen"
     },
     {
-      "name": "Masjide Sajedeen",
-      "url": "http://relay.emasjidlive.uk/masjidesajedeen"
+      "name": "Masjid Al-Hidayah",
+      "url": "http://lb.mymasjid.stream/hidayahbbn"
     },
     {
-      "name": "Masjide Anwaar",
-      "url": "http://relay.emasjidlive.uk/masjid_e_anwaar"
+      "name": "Masjid Anisul Islam",
+      "url": "http://lb.mymasjid.stream/anisulbbn"
+    },
+    {
+      "name": "Masjid Evali",
+      "url": "http://relay.emasjidlive.uk/masjidevali"
     },
     {
       "name": "Masjid Quwwatul Islam",
@@ -54,48 +54,48 @@
       "url": "http://relay.emasjidlive.uk/masjid_saliheen"
     },
     {
-      "name": "Musalla Maryam",
-      "url": "http://relay.emasjidlive.uk/musallamaryam"
+      "name": "Masjid-e-Anisul Islam",
+      "url": "http://relay.emasjidlive.uk/masjideanisulislam"
     },
     {
-      "name": "Jamia Ghosia",
-      "url": "http://lb.mymasjid.stream/jamiaghosiabbn"
-    },
-     {
-      "name": "Masjid-e-Taqwa",
-      "url": "http://lb.mymasjid.stream/taqwabbn"
-    },
-     {
-      "name": "Mohaddis-e-Azam",
-      "url": "http://lb.mymasjid.stream/mamissionbbn"
-    },
-     {
-      "name": "Jamia Syeda Fatima Al Zahra",
-      "url": "http://lb.mymasjid.stream/fatimaalzahrabbn"
-    },
-     {
-      "name": "Masjid Al-Hidayah",
-      "url": "http://lb.mymasjid.stream/hidayahbbn"
-    },
-     {
-      "name": "Masjid Anisul Islam",
-      "url": "http://lb.mymasjid.stream/anisulbbn"
-    },
-     {
       "name": "Masjid-e-Anwaar",
       "url": "http://lb.mymasjid.stream/anwaarbbn"
     },
-     {
+    {
       "name": "Masjid-eGhousiya",
       "url": "http://lb.mymasjid.stream/ghausiabbnlem"
     },
     {
       "name": "Masjid-e-Irfan",
       "url": "http://lb.mymasjid.stream/irfanbbn"
-    }, 
-      {
+    },
+    {
+      "name": "Masjid-e-Taqwa",
+      "url": "http://lb.mymasjid.stream/taqwabbn"
+    },
+    {
+      "name": "Masjide Anwaar",
+      "url": "http://relay.emasjidlive.uk/masjid_e_anwaar"
+    },
+    {
+      "name": "Masjide Bilaal",
+      "url": "http://relay.emasjidlive.uk/masjidebilaal"
+    },
+    {
+      "name": "Masjide Noorul Islam",
+      "url": "http://relay.emasjidlive.uk/masjidenoorulislam"
+    },
+    {
       "name": "Masjide Noorul Islam",
       "url": "http://lb.mymasjid.stream/noorulbbn"
-    }     
+    },
+    {
+      "name": "Masjide Rizwan",
+      "url": "http://relay.emasjidlive.uk/masjiderizwan"
+    },
+    {
+      "name": "Masjide Sajedeen",
+      "url": "http://relay.emasjidlive.uk/masjidesajedeen"
+    }
   ]
 }
