@@ -2,12 +2,12 @@
   "city": "Bedford",
   "stations": [
     {
-      "name": "Daarul Huda",
-      "url": "http://relay.emasjidlive.uk/daarulhuda"
-    },
-     {
       "name": "Central Jamee Masjid",
       "url": "http://lb.mymasjid.stream/bedfordcentral"
+    },
+    {
+      "name": "Daarul Huda",
+      "url": "http://relay.emasjidlive.uk/daarulhuda"
     }
   ]
 }
