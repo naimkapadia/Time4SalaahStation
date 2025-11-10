@@ -1,7 +1,35 @@
 {
   "city": "Bradford",
   "stations": [
-    {
+ {
+      "name": "Al hikmah Learning Centre",
+      "url": "http://lb.mymasjid.stream/alhikmahlc"
+    },
+         {
+      "name": "Masjid Umar",
+      "url": "http://lb.mymasjid.stream/umarbradford"
+    },
+     {
+      "name": "Madrassa Abbasiya",
+      "url": "http://lb.mymasjid.stream/abbasiya"
+    },
+     {
+      "name": "Abu Bakar Bradford",
+      "url": "http://lb.mymasjid.stream/abubakarbradford"
+    },
+     {
+      "name": "Ayesha Masjid",
+      "url": "http://lb.mymasjid.stream/ayeshabradford"
+    },
+     {
+      "name": "Shipley Islamic Education",
+      "url": "http://lb.mymasjid.stream/shipleyiec"
+    },
+     {
+      "name": "Iqra Masjid",
+      "url": "http://lb.mymasjid.stream/iqrabradford"
+    },
+            {
       "name": "Alhidaya Academy",
       "url": "http://relay.emasjidlive.uk/alhidayaacademy"
     },
