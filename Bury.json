@@ -1,11 +1,22 @@
-
-
-
-
-
 {
-      "name": "Noorul Islam bury",
-      "url": "http://relay.emasjidlive.uk/noorulislambury"
+  "city": "Bury",
+  "stations": [
+    {
+      "name": "Noorul islam",
+      "url": "http://lb.mymasjid.stream/noorulislambury"
     },
-
+ {
+      "name": "Bury islamic Centre",
+      "url": "http://lb.mymasjid.stream/buryic"
+    },
+         {
+      "name": "Jamia Khizra",
+      "url": "http://lb.mymasjid.stream/khizraparker"
+    },
+         {
+      "name": "Khizra Mosque",
+      "url": "http://lb.mymasjid.stream/khizrawalmersley"
+    }
+       ]
+}
 
