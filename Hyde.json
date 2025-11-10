@@ -1,0 +1,17 @@
+{
+  "city": "Hyde",
+  "stations": [
+    {
+      "name": "Masjid at Tawhid",
+      "url": "http://lb.mymasjid.stream/hydeic"
+    },
+     {
+      "name": "Hyde Jamia",
+      "url": "http://lb.mymasjid.stream/hydejamia"
+    },
+     {
+      "name": "Rawdhatul ilm Education",
+      "url": "http://lb.mymasjid.stream/rawdhatulilmec"
+    }
+  ]
+}
