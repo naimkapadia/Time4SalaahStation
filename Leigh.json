@@ -1,1 +1,9 @@
-
+{
+  "city": "Leigh",
+  "stations": [
+    {
+      "name": "Masjid-al- furquan",
+      "url": "http://lb.mymasjid.stream/furqanleigh"
+    }
+  ]
+}
