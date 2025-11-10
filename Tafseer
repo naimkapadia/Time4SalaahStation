@@ -1,1 +1,9 @@
-
+{
+  "city": "Tafseer",
+  "stations": [
+    {
+      "name": "Tafseer Raheemi",
+      "url": "http://lb.mymasjid.stream//flc"
+       }
+  ]
+}
