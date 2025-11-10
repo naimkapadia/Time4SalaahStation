@@ -1,1 +1,9 @@
-
+{
+  "city": "Halifax",
+  "stations": [
+    {
+      "name": "Faizan-e-masjid",
+      "url": "http://lb.mymasjid.stream/femhalifax"
+    }
+  ]
+}
