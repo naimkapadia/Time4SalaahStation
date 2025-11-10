@@ -52,6 +52,16 @@
     {
       "name": "Masjid Al Furqan",
       "url": "http://relay.emasjidlive.uk/masjidalfurqan"
-    }
+    },
+
+ {
+      "name": "Masjid Ali",
+      "url": "http://lb.mymasjid.stream/alileicester"
+    },
+
+ {
+      "name": "Masjid e Bial",
+      "url": "http://lb.mymasjid.stream/bilalleicester"
+    } 
   ]
 }
