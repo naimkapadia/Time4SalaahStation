@@ -1,1 +1,9 @@
-
+{
+  "city": "Croydon",
+  "stations": [
+    {
+      "name": "Croydon Mosque",
+      "url": "http://lb.mymasjid.stream/croydonic"
+    }  
+  ]
+}
