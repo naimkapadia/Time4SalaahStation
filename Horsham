@@ -1,1 +1,9 @@
-
+{
+  "city": "Horsham",
+  "stations": [
+    {
+      "name": "Madina Mosque",
+      "url": "http://lb.mymasjid.stream/madinahorsham"
+    }
+  ]
+}
