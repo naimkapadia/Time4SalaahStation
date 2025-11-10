@@ -1,0 +1,9 @@
+{
+  "city": "Haywards Heath",
+  "stations": [
+    {
+      "name": "Mid Sussex IC & Masjid",
+      "url": "http://lb.mymasjid.stream/midsussexic"
+    }
+  ]
+}
