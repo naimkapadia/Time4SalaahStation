@@ -1,1 +1,9 @@
-
+{
+  "city": "Liverpool",
+  "stations": [
+    {
+      "name": "Al-rahma mosque",
+      "url": "http://lb.mymasjid.stream/lmsalrahma"
+    }
+  ]
+}
