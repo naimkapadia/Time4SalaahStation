@@ -1,1 +1,9 @@
-
+{
+  "city": "Newcastle Under Lyme",
+  "stations": [
+      {
+      "name": "Masjid At Taqwa",
+      "url": "http://lb.mymasjid.stream/taqwanul"
+    }
+  ]
+}
