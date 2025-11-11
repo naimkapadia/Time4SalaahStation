@@ -12,6 +12,41 @@
      {
       "name": "Masjid-e-Hidayah",
       "url": "http://relay.emasjidlive.uk/masjidehidayah_manchester"
-     }
+     },
+ {
+      "name": "Al Falah Markaz",
+      "url": "http://lb.mymasjid.stream/falahmanc"      
+    }, {
+      "name": "Al-Sunnah",
+      "url": "http://lb.mymasjid.stream/alsunnah"      
+    },
+     {
+      "name": "Anwar ul Haramain",
+      "url": "http://lb.mymasjid.stream/northmanchesterjame"      
+    },
+     {
+      "name": "Dar Ul Uloom islamia",
+      "url": "http://lb.mymasjid.stream/ghamkolmanchester"      
+    },
+     {
+      "name": "Didsbury Central Mosque",
+      "url": "http://lb.mymasjid.stream/didsbury"      
+    },
+     {
+      "name": "Jame Masjid & Centre",
+      "url": "http://lb.mymasjid.stream/manchesterjame"      
+    },
+     {
+      "name": "Minhaj-ul-Quran",
+      "url": "http://lb.mymasjid.stream/minhajmanchester"      
+    },
+     {
+      "name": "Shahjalal Mosque",
+      "url": "http://lb.mymasjid.stream/sjmanc"      
+    },
+     {
+      "name": "Shahporan Masjid",
+      "url": "http://lb.mymasjid.stream/sporanmanc"      
+    }
   ]
 }
