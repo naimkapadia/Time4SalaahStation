@@ -1,1 +1,13 @@
-
+{
+  "city": "Milton Keynes",
+  "stations": [
+    {
+      "name": "Hazrath Shahjalal",
+      "url": "http://lb.mymasjid.stream/hsjmmk"
+    },
+      {
+      "name": "Jamee Masjid",
+      "url": "http://lb.mymasjid.stream/mkjm"
+    }
+  ]
+}
