@@ -1,1 +1,9 @@
-
+{
+  "city": "Oxford",
+  "stations": [
+         {
+      "name": "Madina Masjid",
+      "url": "http://lb.mymasjid.stream/madinaoxford"
+    }
+  ]
+}
