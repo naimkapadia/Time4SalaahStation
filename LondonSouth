@@ -1,1 +1,9 @@
-
+{
+  "city": "LondonSouth",
+  "stations": [
+ {
+      "name": "Balham Mosque",
+      "url": "http://lb.mymasjid.stream/tootingic"
+    }
+  ]
+}
