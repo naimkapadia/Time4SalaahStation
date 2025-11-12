@@ -1,1 +1,9 @@
-
+{
+  "city": "St Albans",
+  "stations": [
+    {
+      "name": "Masjid Ar Rahman",
+      "url": "http://lb.mymasjid.stream/sctalbans"
+    }
+  ]
+}
