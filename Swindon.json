@@ -1,1 +1,9 @@
-
+{
+  "city": "Swindon",
+  "stations": [
+         {
+      "name": "Hazrat Shah Jalal Mosque",
+      "url": "http://lb.mymasjid.stream/shahjalalswindon"
+    }
+  ]
+}
