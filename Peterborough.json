@@ -2,10 +2,6 @@
   "city": "Peterborough",
   "stations": [
     {
-      "name": "Darassalaam",
-      "url": "http://relay.emasjidlive.uk/darassalaam"
-    },
-       {
       "name": "Faizan-e-Madina",
       "url": "http://lb.mymasjid.stream/femptbo"
     }
