@@ -1,0 +1,9 @@
+{
+  "city": "WhitleyBay",
+  "stations": [
+         {
+      "name": "WBICC",
+      "url": "http://lb.mymasjid.stream/whitleybayicc"
+    }
+  ]
+}
