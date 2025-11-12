@@ -2,8 +2,18 @@
   "city": "Slough",
   "stations": [
     {
-      "name": "Nuneaton",
-      "url": "http://relay.emasjidlive.uk/nuneaton"
-    }
+      "name": "Faizan-e-Madina",
+      "url": "http://lb.mymasjid.stream/femslough"
+    },
+  {
+      "name": "Masjid Al Jannah",
+      "url": "http://lb.mymasjid.stream/aljannahslough"
+    }, 
+      {
+      "name": "Ujala Islamic Centre",
+      "url": "http://lb.mymasjid.stream/ujalaic"
+    } 
+
+    
   ]
 }
