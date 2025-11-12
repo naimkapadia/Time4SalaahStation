@@ -1,1 +1,13 @@
-
+{
+  "city": "Stoke-on-Trent",
+  "stations": [
+    {
+      "name": "Hazrat Belal Masjid",
+      "url": "http://lb.mymasjid.stream/belalstoke"
+    },
+      {
+      "name": "Makki Masjid",
+      "url": "http://lb.mymasjid.stream/makkistoke"
+    }
+  ]
+}
