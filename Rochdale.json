@@ -1,1 +1,26 @@
 
+{
+  "city": "Rochdale",
+  "stations": [
+    {
+      "name": "Neeli Mosque",
+      "url": "http://lb.mymasjid.stream/neelirochdale"
+    },  
+     {
+      "name": "Central Mosque",
+      "url": "http://lb.mymasjid.stream/centralmosquerochdale"
+    },  
+     {
+      "name": "Jalalia Jaame Mosque",
+      "url": "http://lb.mymasjid.stream/jalaliajaamerochdale"
+    },  
+     {
+      "name": "Rochdale Community Mosque",
+      "url": "http://lb.mymasjid.stream/rochdalecm"
+    },  
+     {
+      "name": "Sparth Islamic Centre",
+      "url": "http://lb.mymasjid.stream/sparthic"
+    }  
+  ]
+}
