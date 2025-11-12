@@ -1,1 +1,13 @@
-
+{
+  "city": "South Shields",
+  "stations": [
+    {
+      "name": "al Azhar Mosque",
+      "url": "http://lb.mymasjid.stream/alazharsshields"
+    },
+  {
+      "name": "Baitul Mamur Jame Masjid",
+      "url": "http://lb.mymasjid.stream/baitulmamursshields"
+    }  
+  ]
+}
