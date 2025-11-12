@@ -1,1 +1,13 @@
-
+{
+  "city": "LondonWest",
+  "stations": [
+    {
+      "name": "Almanaar Mosque",
+      "url": "http://lb.mymasjid.stream/almanaarlondon"
+    },
+ {
+      "name": "Quba Masjid",
+      "url": "http://lb.mymasjid.stream/qubamasjidlondon"
+    }
+  ]
+}
