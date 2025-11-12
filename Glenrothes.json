@@ -1,1 +1,9 @@
-
+{
+  "city": "Glenrothes",
+  "stations": [
+    {
+      "name": "Fife Muslim Educational Centre",
+      "url": "http://lb.mymasjid.stream/fifemec"
+    }  
+  ]
+}
