@@ -1,1 +1,9 @@
-
+{
+  "city": "Worcester",
+  "stations": [
+         {
+      "name": "Al Madina",
+      "url": "http://lb.mymasjid.stream/almadinaworc"
+    }
+  ]
+}
