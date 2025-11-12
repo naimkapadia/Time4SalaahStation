@@ -95,7 +95,12 @@
     },
     {
       "name": "Seven Kings",
-      "url": "http://relay.emasjidlive.uk/skmet"
+      "url": "http://relay.emasjidlive.uk/skmet"   
+    },
+     {
+      "name": "Masjid Bilal",
+      "url": "http://lb.mymasjid.stream/bilallondon"
     }
+    
   ]
 }
