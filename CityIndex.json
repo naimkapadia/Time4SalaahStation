@@ -1,5 +1,13 @@
 {
   "cities": [
+   {
+      "name": "QuranRadio",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/QuranRadio.json"
+    },
+     {
+      "name": "TafseerRadio",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
+    },
     {
       "name": "Ashton‑Under‑Lyne",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Ashton‑Under‑Lyne.json"
@@ -236,10 +244,7 @@
       "name": "Preston",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Preston.json"
     },
-    {
-      "name": "QuranRadio",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/QuranRadio.json"
-    },
+    
     {
       "name": "Rochdale",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Rochdale.json"
@@ -288,11 +293,7 @@
       "name": "Swindon",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Swindon.json"
     },
-    {
-      "name": "TafseerRadio",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
-    },
-    {
+       {
       "name": "Telford",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Telford.json"
     },
