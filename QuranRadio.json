@@ -1,5 +1,5 @@
 {
-  "city": "Quran & Translation",
+  "city": "QuranRadio",
   "stations": [
      {
       "name": "Emasjid Quran",
@@ -13,21 +13,24 @@
       "name": "MyMasjid Qiraat",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
-   
+    {
+      "name": "Quran Cananda",
+      "url": "http://canada1.reliastream.com:8191/stream"
+    },
     {
       "name": "Quran Recitation Alserajradio",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
     {
-      "name": "Radio Coran",
+      "name": "Radio Quran 1",
       "url": "http://virmach4.hajjam.net:8000/main"
     },
     {
-      "name": "Radio Quran",
+      "name": "Radio Quran 2",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
     {
-      "name": "Radio Quran 2",
+      "name": "Radio Quran 3",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202863"
     },
     {
