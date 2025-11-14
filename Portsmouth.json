@@ -1,17 +1,17 @@
 {
   "city": "Portsmouth",
   "stations": [
-      {
-      "name": "North End Musallah",
-      "url": "http://lb.mymasjid.stream/northendic"
-    },
- {
+    {
       "name": "Central Masjid",
       "url": "http://lb.mymasjid.stream/pcm"
     },
- {
-      "name": "Jami Mosquw",
+    {
+      "name": "Jami Mosque",
       "url": "http://lb.mymasjid.stream/pmthic"
+    },
+    {
+      "name": "North End Musallah",
+      "url": "http://lb.mymasjid.stream/northendic"
     }
   ]
 }
