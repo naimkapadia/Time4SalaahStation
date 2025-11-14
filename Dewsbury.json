@@ -2,8 +2,16 @@
   "city": "Dewsbury",
   "stations": [
     {
+      "name": "Alhira",
+      "url": "http://relay.emasjidlive.uk/alhira"
+    },
+    {
       "name": "Darul Ilm",
       "url": "http://relay.emasjidlive.uk/darulilmdewsbury"
+    },
+    {
+      "name": "Ilaahi",
+      "url": "http://relay.emasjidlive.uk/ilaahi"
     },
     {
       "name": "Islamic Tarbiyah",
@@ -14,44 +22,32 @@
       "url": "http://relay.emasjidlive.uk/madina_academy"
     },
     {
-      "name": "Masjid Assalaam",
-      "url": "http://relay.emasjidlive.uk/masjidassalaam"
-    },
-    {
-      "name": "Masjid Heera",
-      "url": "http://relay.emasjidlive.uk/masjidheera"
-    },
-    {
-      "name": "Masjid Talha",
-      "url": "http://relay.emasjidlive.uk/talha"
-    },
-    {
-      "name": "Masjid Bilal",
-      "url": "http://relay.emasjidlive.uk/masjidbilaldewsbury"
-    },
-    {
-      "name": "Zakaria Masjid",
-      "url": "http://relay.emasjidlive.uk/zakariamasjid"
-    },
-    {
-      "name": "Ilaahi",
-      "url": "http://relay.emasjidlive.uk/ilaahi"
-    },
-    {
-      "name": "Alhira",
-      "url": "http://relay.emasjidlive.uk/alhira"
-    },
-    {
       "name": "Madni Masjid",
       "url": "http://relay.emasjidlive.uk/madnimasjiddewsburytown"
+    },
+    {
+      "name": "Masjid Assalaam",
+      "url": "http://relay.emasjidlive.uk/masjidassalaam"
     },
     {
       "name": "Masjid Baitut Tauheed",
       "url": "http://relay.emasjidlive.uk/masjidbaituttauheed"
     },
     {
+      "name": "Masjid Bilal",
+      "url": "http://relay.emasjidlive.uk/masjidbilaldewsbury"
+    },
+    {
+      "name": "Masjid Heera",
+      "url": "http://relay.emasjidlive.uk/masjidheera"
+    },
+    {
       "name": "Masjid Noor",
       "url": "http://relay.emasjidlive.uk/masjidnoordewsbury"
+    },
+    {
+      "name": "Masjid Talha",
+      "url": "http://relay.emasjidlive.uk/talha"
     },
     {
       "name": "Masjid Urrahman",
@@ -60,6 +56,10 @@
     {
       "name": "MEU",
       "url": "http://relay.emasjidlive.uk/meudewsbury"
+    },
+    {
+      "name": "Zakaria Masjid",
+      "url": "http://relay.emasjidlive.uk/zakariamasjid"
     }
   ]
 }
