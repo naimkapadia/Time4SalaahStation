@@ -1,8 +1,0 @@
-{
-  "stations": [
-    { "name": "Dundee", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Dundee.json" },
-    { "name": "Edinburgh", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Edinburgh.json" },
-    { "name": "Falkirk", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Falkirk.json" },
-    { "name": "Glasgow", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Glasgow.json" },
-     ]
-}
