@@ -37,6 +37,10 @@
       "name": "Emasjid Almubarakradio",
       "url": "http://relay.emasjidlive.uk/almubarakradio"
     },
+      {
+      "name": "Tafseer Islam",
+      "url": "http://islam2day.tv:4000"
+    },
         {
       "name": "Tafseer Raheemi",
       "url": "http://lb.mymasjid.stream/flc"
