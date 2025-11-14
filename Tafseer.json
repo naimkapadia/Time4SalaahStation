@@ -5,6 +5,18 @@
       "name": "Austrailia Al Bayan",
       "url": "http://s9.viastreaming.net:9645/;stream/1"
     },
+     {
+      "name": "Nasheeds Islam",
+      "url": "http://islam2day.tv:7000"
+    },
+       {
+      "name": "Quran Islam Today",
+      "url": "http://islam2day.tv:3000"
+    },
+    {
+      "name": "Quran Radio Tafseer",
+      "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
+    },
       {
       "name": "Emaan City",
       "url": "http://66.45.232.131:9990/stream?type=http&nocache=574600"
