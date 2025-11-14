@@ -2,16 +2,12 @@
   "city": "Batley",
   "stations": [
     {
-      "name": "Ali Ihsan Trust",
-      "url": "http://relay.emasjidlive.uk/alihsantrust"
-    },
-    {
       "name": "Alhashim Academy",
       "url": "http://relay.emasjidlive.uk/alhashimacademy"
     },
     {
-      "name": "Masjid-e-Mahmoodiya",
-      "url": "http://relay.emasjidlive.uk/azi"
+      "name": "Ali Ihsan Trust",
+      "url": "http://relay.emasjidlive.uk/alihsantrust"
     },
     {
       "name": "Dawatal Islam",
@@ -22,40 +18,44 @@
       "url": "http://relay.emasjidlive.uk/icwa"
     },
     {
-      "name": "Masjid Arrashideen",
-      "url": "http://relay.emasjidlive.uk/masjidarrashideen"
-    },
-      {
       "name": "Madrasah Islamiyah",
       "url": "http://relay.emasjidlive.uk/madrasahislamiyah"
     },
-      {
+    {
       "name": "Madrasah Mahmoodia",
       "url": "http://relay.emasjidlive.uk/mahmoodia"
+    },
+    {
+      "name": "Masjid Arrashideen",
+      "url": "http://relay.emasjidlive.uk/masjidarrashideen"
     },
     {
       "name": "Masjid Noor",
       "url": "http://relay.emasjidlive.uk/masjidnoorbatley"
     },
     {
-      "name": "Mpit Madina",
-      "url": "http://relay.emasjidlive.uk/mpitmadina"
-    },
-    {
       "name": "Masjid Quba",
       "url": "http://relay.emasjidlive.uk/quba"
     },
     {
-      "name": "Snowdon St Mosque",
-      "url": "http://relay.emasjidlive.uk/snowdonmasjid"
+      "name": "Masjid Taqwa",
+      "url": "http://relay.emasjidlive.uk/taqwa"
     },
-     {
+    {
+      "name": "Masjid-e-Mahmoodiya",
+      "url": "http://relay.emasjidlive.uk/azi"
+    },
+    {
+      "name": "Mpit Madina",
+      "url": "http://relay.emasjidlive.uk/mpitmadina"
+    },
+    {
       "name": "Rabetah Al Ulama",
       "url": "http://relay.emasjidlive.uk/rabetah"
     },
     {
-      "name": "Masjid Taqwa",
-      "url": "http://relay.emasjidlive.uk/taqwa"
+      "name": "Snowdon St Mosque",
+      "url": "http://relay.emasjidlive.uk/snowdonmasjid"
     }
   ]
 }
