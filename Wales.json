@@ -1,7 +1,7 @@
 {
   "cities": [
-    { "name": "Barry", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Barry.json" },
-    { "name": "Sketty", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Bedford.json" },
+    { "name": "Barry", "url": "http://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Barry.json" },
+    { "name": "Sketty", "url": "http://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Sketty.json" },
     { "name": "Wrexham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Birmingham.json" }
        ]
 }
