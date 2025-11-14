@@ -2,15 +2,15 @@
   "city": "Ashton-Under-Lyne",
   "stations": [
     {
-      "name": "Ashton Jamia Al Nur",
-      "url": "http://lb.mymasjid.stream/jalnurashton"
-    },
-    {
       "name": "Ashton Jame Mosque",
       "url": "http://lb.mymasjid.stream/ashtonjamemosqueic"
     },
     {
-      "name": "Masjid e Hamzah",
+      "name": "Ashton Jamia Al Nur",
+      "url": "http://lb.mymasjid.stream/jalnurashton"
+    },
+    {
+      "name": "Masjid-e-Hamzah",
       "url": "http://relay.emasjidlive.uk/masjidehamzah"
     }
   ]
