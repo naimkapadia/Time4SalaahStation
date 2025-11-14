@@ -1,1 +1,13 @@
-
+{
+  "city": "Dudley",
+  "stations": [
+    {
+      "name": "Faizan-e-Farooq-e-Azam",
+      "url": "http://relay.emasjidlive.uk/faizanefarooqeazamdudley"
+    },
+      {
+      "name": "Kanzul Iman Masjid",
+      "url": "http://relay.emasjidlive.uk/kanzulimanmasjid"
+    }
+  ]
+}
