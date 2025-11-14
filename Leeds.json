@@ -1,28 +1,28 @@
- {
+{
   "city": "Leeds",
   "stations": [
     {
+      "name": "Al Madina Jam-e Masjid",
+      "url": "http://lb.mymasjid.stream/almadinaleeds"
+    },
+    {
       "name": "Darul Huda Leeds",
       "url": "http://relay.emasjidlive.uk/darulhudaleeds"
-    },
-    {
-      "name": "Masjid Ibraheem",
-      "url": "http://relay.emasjidlive.uk/masjidibraheem"
-    },
-    {
-      "name": "Masjid Quba Leeds",
-      "url": "http://relay.emasjidlive.uk/masjidqubaleeds"
-    },
-    {
-      "name": "Zia Ul Quran Leeds",
-      "url": "http://relay.emasjidlive.uk/ziaulquranleeds"
     },
     {
       "name": "Masjid Abu Bakr",
       "url": "http://relay.emasjidlive.uk/masjidabubakrleeds"
     },
     {
-      "name": "Masjid Umar Leeds",
+      "name": "Masjid Ibraheem",
+      "url": "http://relay.emasjidlive.uk/masjidibraheem"
+    },
+    {
+      "name": "Masjid Quba",
+      "url": "http://relay.emasjidlive.uk/masjidqubaleeds"
+    },
+    {
+      "name": "Masjid Umar",
       "url": "http://relay.emasjidlive.uk/masjidumarleeds"
     },
     {
@@ -33,9 +33,9 @@
       "name": "Wortley Jamia Masjid",
       "url": "http://relay.emasjidlive.uk/wortleyjamiamasjid"
     },
-   {
-      "name": "Al Madina Jam-e Masjid",
-      "url": "http://lb.mymasjid.stream/almadinaleeds"
+    {
+      "name": "Zia Ul Quran",
+      "url": "http://relay.emasjidlive.uk/ziaulquranleeds"
     }
   ]
 }
