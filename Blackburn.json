@@ -18,18 +18,6 @@
       "url": "http://relay.emasjidlive.uk/markazululoom"
     },
     {
-      "name": "MMI Greatharwood",
-      "url": "http://relay.emasjidlive.uk/mmigreatharwood"
-    },
-    {
-      "name": "Mohaddis-e-Azam",
-      "url": "http://lb.mymasjid.stream/mamissionbbn"
-    },
-    {
-      "name": "Musalla Maryam",
-      "url": "http://relay.emasjidlive.uk/musallamaryam"
-    },
-    {
       "name": "Masjid Al Momineen",
       "url": "http://relay.emasjidlive.uk/masjidalmomineen"
     },
@@ -96,6 +84,18 @@
     {
       "name": "Masjide Sajedeen",
       "url": "http://relay.emasjidlive.uk/masjidesajedeen"
+    },
+    {
+      "name": "MMI Greatharwood",
+      "url": "http://relay.emasjidlive.uk/mmigreatharwood"
+    },
+    {
+      "name": "Mohaddis-e-Azam",
+      "url": "http://lb.mymasjid.stream/mamissionbbn"
+    },
+    {
+      "name": "Musalla Maryam",
+      "url": "http://relay.emasjidlive.uk/musallamaryam"
     }
   ]
 }
