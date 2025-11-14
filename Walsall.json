@@ -5,21 +5,21 @@
       "name": "Alhidayah Foundation",
       "url": "http://relay.emasjidlive.uk/alhidayahfoundation"
     },
-     {
+    {
       "name": "Bilal Academy",
       "url": "http://relay.emasjidlive.uk/bilalacademy"
     },
-     {
+    {
+      "name": "Jamia Masjid",
+      "url": "http://lb.mymasjid.stream/birchills"
+    },
+    {
       "name": "Masjid AlFarouq",
       "url": "http://relay.emasjidlive.uk/masjidalfarouqwalsall"
     },
     {
       "name": "Masjide Usman",
       "url": "http://relay.emasjidlive.uk/masjideusman"
-    },
-    {
-      "name": "Jamia Masjid",
-      "url": "http://lb.mymasjid.stream/birchills"
-       }
+    }
   ]
 }
