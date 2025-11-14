@@ -1,35 +1,11 @@
 {
   "city": "Quran & Translation",
   "stations": [
-    {
-      "name": "Austrailia Al Bayan",
-      "url": "http://s9.viastreaming.net:9645/;stream/1"
-    },
-      {
-      "name": "Emaan City",
-      "url": "http://66.45.232.131:9990/stream?type=http&nocache=574600"
-    },
-    {
-      "name": "Emasjid Almubarakradio",
-      "url": "http://relay.emasjidlive.uk/almubarakradio"
-    },
-    {
+     {
       "name": "Emasjid Quran",
       "url": "http://relay.emasjidlive.uk/quraan"
     },
-    {
-      "name": "History Islam",
-      "url": "http://islam2day.tv:6000"
-    },
-    {
-      "name": "Islam Today",
-      "url": "http://islam2day.tv:5000"
-    },
-    {
-      "name": "Lectures Islam",
-      "url": "http://islam2day.tv:8000"
-    },
-    {
+       {
       "name": "Love Quran",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
     },
