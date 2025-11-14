@@ -2,64 +2,64 @@
   "city": "Preston",
   "stations": [
     {
-      "name": "Masjid Saliheen",
-      "url": "http://relay.emasjidlive.uk/masjidesaliheen"
-    },
- {
-      "name": "Zakariyaa Masjid",
-      "url": "http://lb.mymasjid.stream/zakariyyapreston"
-    },
- {
       "name": "Faizan-e-Madina",
       "url": "http://lb.mymasjid.stream/fempreston"
     },
-     {
+    {
       "name": "Jamea Masjid",
       "url": "http://lb.mymasjid.stream/jameapreston"
     },
-     {
+    {
       "name": "Maahadus Shuada",
       "url": "http://lb.mymasjid.stream/shuhadapreston"
     },
-     {
+    {
       "name": "Madina Masjid",
       "url": "http://lb.mymasjid.stream/madinapreston"
     },
-     {
-      "name": "Quba Masjid",
-      "url": "http://lb.mymasjid.stream/qubapreston"
+    {
+      "name": "Masjid Saliheen",
+      "url": "http://relay.emasjidlive.uk/masjidesaliheen"
     },
-     {
+    {
       "name": "Masjid-e-Aqsa",
       "url": "http://lb.mymasjid.stream/aqsapreston"
     },
-     {
+    {
       "name": "Masjid-e-Falah",
       "url": "http://lb.mymasjid.stream/falahpreston"
     },
-     {
+    {
       "name": "Masjid-e-Noor",
       "url": "http://lb.mymasjid.stream/noorpreston"
     },
-     {
+    {
       "name": "Masjid-e-Salaam",
       "url": "http://lb.mymasjid.stream/salaampreston"
     },
-     {
+    {
       "name": "Noorani Masjid",
       "url": "http://lb.mymasjid.stream/nooranipreston"
     },
-     {
+    {
+      "name": "Quba Masjid",
+      "url": "http://lb.mymasjid.stream/qubapreston"
+    },
+    {
       "name": "Quwwat-Al-Islam Masjid",
       "url": "http://lb.mymasjid.stream/quwwatpreston"
     },
-     {
+    {
       "name": "Raza Masjid",
       "url": "http://lb.mymasjid.stream/razapreston"
     },
-     {
+    {
       "name": "The Suffa Institute",
       "url": "http://lb.mymasjid.stream/suffahpreston"
+    },
+    {
+      "name": "Zakariyaa Masjid",
+      "url": "http://lb.mymasjid.stream/zakariyyapreston"
     }
   ]
 }
