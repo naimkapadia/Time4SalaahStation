@@ -2,7 +2,7 @@
   "city": "Batley",
   "stations": [
     {
-      "name": "Ali Ehsan Trust",
+      "name": "Ali Ihsan Trust",
       "url": "http://relay.emasjidlive.uk/alihsantrust"
     },
     {
@@ -14,16 +14,24 @@
       "url": "http://relay.emasjidlive.uk/azi"
     },
     {
-      "name": "Dawatal",
+      "name": "Dawatal Islam",
       "url": "http://relay.emasjidlive.uk/dawatal"
     },
     {
-      "name": "ICWA",
+      "name": "ICWA Jame Masjid",
       "url": "http://relay.emasjidlive.uk/icwa"
     },
     {
       "name": "Masjid Arrashideen",
       "url": "http://relay.emasjidlive.uk/masjidarrashideen"
+    },
+      {
+      "name": "Madrasah Islamiyah",
+      "url": "http://relay.emasjidlive.uk/madrasahislamiyah"
+    },
+      {
+      "name": "Madrasah Mahmoodia",
+      "url": "http://relay.emasjidlive.uk/mahmoodia"
     },
     {
       "name": "Masjid Noor",
@@ -34,15 +42,15 @@
       "url": "http://relay.emasjidlive.uk/mpitmadina"
     },
     {
-      "name": "Quba",
+      "name": "Masjid Quba",
       "url": "http://relay.emasjidlive.uk/quba"
     },
     {
-      "name": "Snowdon Masjid",
+      "name": "Snowdon St Mosque",
       "url": "http://relay.emasjidlive.uk/snowdonmasjid"
     },
     {
-      "name": "Taqwa",
+      "name": "Masjid Taqwa",
       "url": "http://relay.emasjidlive.uk/taqwa"
     }
   ]
