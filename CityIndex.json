@@ -5,4 +5,5 @@
     { "name": "England", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/England.json" },
     { "name": "Scotland", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Scotland.json" },
     { "name": "Wales", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Wales.json" }
-   }
+  ]
+     }
