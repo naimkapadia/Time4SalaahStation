@@ -1,16 +1,20 @@
 {
   "cities": [
     {
-      "name": "QuranRadio",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/QuranRadio.json"
-    },
-    {
-      "name": "TafseerRadio",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
-    },
-    {
       "name": "Ashton‑Under‑Lyne",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Ashton‑Under‑Lyne.json"
+    },
+    {
+      "name": "Banbury",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Banbury.json"
+    },
+    {
+      "name": "Barnoldswick",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Barnoldswick.json"
+    },
+    {
+      "name": "Barry",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Barry.json"
     },
     {
       "name": "Batley",
@@ -49,6 +53,10 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Burton‑Upon‑Trent.json"
     },
     {
+      "name": "Bury",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Bury.json"
+    },
+    {
       "name": "Chelmsford",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Chelmsford.json"
     },
@@ -63,6 +71,14 @@
     {
       "name": "Coventry",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Coventry.json"
+    },
+    {
+      "name": "Crawley",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Crawley.json"
+    },
+    {
+      "name": "Croydon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Croydon.json"
     },
     {
       "name": "Darlaston",
@@ -105,8 +121,28 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Glasgow.json"
     },
     {
+      "name": "Glenrothes",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Glenrothes.json"
+    },
+    {
+      "name": "Gloucester",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Gloucester.json"
+    },
+    {
+      "name": "Halifax",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Halifax.json"
+    },
+    {
+      "name": "Haywards‑Heath",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Haywards‑Heath.json"
+    },
+    {
       "name": "Heckmondwike",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Heckmondwike.json"
+    },
+    {
+      "name": "Horsham",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Horsham.json"
     },
     {
       "name": "Huddersfield",
@@ -115,6 +151,14 @@
     {
       "name": "Hull",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Hull.json"
+    },
+    {
+      "name": "Hyde",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Hyde.json"
+    },
+    {
+      "name": "Keighley",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Keighley.json"
     },
     {
       "name": "Kidderminster",
@@ -129,8 +173,20 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Leicester.json"
     },
     {
-      "name": "London East",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/LondonEast.json"
+      "name": "Leigh",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Leigh.json"
+    },
+    {
+      "name": "London‑East",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/London‑East.json"
+    },
+    {
+      "name": "London‑South",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/London‑South.json"
+    },
+    {
+      "name": "London‑West",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/London‑West.json"
     },
     {
       "name": "London North",
@@ -153,8 +209,16 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/NewcastleUponTyne.json"
     },
     {
+      "name": "Nottingham",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Nottingham.json"
+    },
+    {
       "name": "Nuneaton",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Nuneaton.json"
+    },
+    {
+      "name": "Oxford",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Oxford.json"
     },
     {
       "name": "Oldham",
@@ -165,8 +229,20 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Peterborough.json"
     },
     {
+      "name": "Portsmouth",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Portsmouth.json"
+    },
+    {
       "name": "Preston",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Preston.json"
+    },
+    {
+      "name": "QuranRadio",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/QuranRadio.json"
+    },
+    {
+      "name": "Rochdale",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Rochdale.json"
     },
     {
       "name": "Rotherham",
@@ -181,8 +257,40 @@
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Sheffield.json"
     },
     {
+      "name": "Sketty",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Sketty.json"
+    },
+    {
+      "name": "Slough",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Slough.json"
+    },
+    {
+      "name": "South‑Shields",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/South‑Shields.json"
+    },
+    {
+      "name": "Southport",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Southport.json"
+    },
+    {
+      "name": "St‑Albans",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/St‑Albans.json"
+    },
+    {
+      "name": "Stoke‑on‑Trent",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Stoke‑on‑Trent.json"
+    },
+    {
       "name": "Sutton Coldfield",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/SuttonColdfield.json"
+    },
+    {
+      "name": "Swindon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Swindon.json"
+    },
+    {
+      "name": "TafseerRadio",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Tafseer.json"
     },
     {
       "name": "Telford",
@@ -203,6 +311,14 @@
     {
       "name": "Wolverhampton",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Wolverhampton.json"
+    },
+    {
+      "name": "Worcester",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Worcester.json"
+    },
+    {
+      "name": "Wrexham",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Wrexham.json"
     }
   ]
 }
