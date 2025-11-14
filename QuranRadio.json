@@ -32,10 +32,6 @@
     {
       "name": "Radio Quran 3",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202863"
-    },
-    {
-      "name": "Tafseer Islam",
-      "url": "http://islam2day.tv:4000"
     }
-  ]
+    ]
 }
