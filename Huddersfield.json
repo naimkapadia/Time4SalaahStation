@@ -5,21 +5,21 @@
       "name": "Jamia Masjid Noor",
       "url": "http://relay.emasjidlive.uk/jamiamasjidnoor"
     },
-      {
+    {
       "name": "Madni Jamia Masjid",
       "url": "http://lb.mymasjid.stream/madnihudd"
     },
-  {
+    {
       "name": "Markazi Jamia",
       "url": "http://lb.mymasjid.stream/rizahuddersfield"
     },
-  {
-      "name": "Shah Jalal Masjid",
-      "url": "http://lb.mymasjid.stream/shahjalalhudd"
-    },  
     {
       "name": "Masjid Usman",
       "url": "http://relay.emasjidlive.uk/masjidusman"
+    },
+    {
+      "name": "Shah Jalal Masjid",
+      "url": "http://lb.mymasjid.stream/shahjalalhudd"
     }
   ]
 }
