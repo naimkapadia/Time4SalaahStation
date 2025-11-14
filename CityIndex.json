@@ -3,7 +3,7 @@
     { "name": "Quran Radio", "url": "http://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/QuranRadio.json" },  
     { "name": "Tafseer Radio", "url": "http://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Tafseer.json" }, 
     { "name": "England", "url": "http://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/England.json" },
-    { "name": "Scotland", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Batley.json" },
+    { "name": "Scotland", "url": "http://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Scotland.json" },
     { "name": "Wales", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Bedford.json" },
    
 }
