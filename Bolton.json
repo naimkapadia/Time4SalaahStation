@@ -21,11 +21,6 @@
       "name": "Al Rahman",
       "url": "http://relay.emasjidlive.uk/alrahman"
     },
-   {
-      "name": "Sughra Mosquw",
-      "url": "http://lb.mymasjid.stream/femsughra"
-    },
-    
     {
       "name": "Alfalah Bolton",
       "url": "http://relay.emasjidlive.uk/alfalahbolton"
@@ -97,6 +92,10 @@
     {
       "name": "Mecca Mosque",
       "url": "https//lb.mymasjid.stream/meccabolton"
+    },
+    {
+      "name": "Sughra Mosque",
+      "url": "http://lb.mymasjid.stream/femsughra"
     },
     {
       "name": "Tafseer-Raheemi",
