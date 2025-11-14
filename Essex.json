@@ -2,12 +2,12 @@
   "city": "Essex",
   "stations": [
     {
-      "name": "Harlow Islamic Centre",
-      "url": "http://relay.emasjidlive.uk/harlowislamiccentre"
-    },
-    {
       "name": "Alfallah Braintree",
       "url": "http://relay.emasjidlive.uk/braintree"
+    },
+    {
+      "name": "Harlow Islamic Centre",
+      "url": "http://relay.emasjidlive.uk/harlowislamiccentre"
     }
   ]
 }
