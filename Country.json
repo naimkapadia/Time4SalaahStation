@@ -1,0 +1,9 @@
+{
+  "cities": [
+    { "name": "Quran Radio", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/QuranRadio.json" },  
+    { "name": "Tafseer Radio", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Tafseer.json" }, 
+    { "name": "England", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Ashton-Under-Lyne.json" },
+    { "name": "Scotland", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Batley.json" },
+    { "name": "Wales", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Wolverhampton.json" }
+    ]
+}
