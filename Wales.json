@@ -1,5 +1,5 @@
 {
-  "cities": [
+  "Wales": [
     { "name": "Barry", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Barry.json" },
     { "name": "Sketty", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Sketty.json" },
     { "name": "Wrexham", "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/refs/heads/main/Wrexham.json" }
