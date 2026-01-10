@@ -2,51 +2,51 @@
   "city": "Tafseer",
   "stations": [
     {
-      "name": "Austrailia Al Bayan",
+      "name": "Tafseer 1",
       "url": "http://s9.viastreaming.net:9645/;stream/1"
     },
     {
-      "name": "Emasjid Almubarakradio",
+      "name": "Tafseer 2",
       "url": "http://relay.emasjidlive.uk/almubarakradio"
     },
     {
-      "name": "Emaan City",
+      "name": "Tafseer 3",
       "url": "http://66.45.232.131:9990/stream?type=http&nocache=574600"
     },
     {
-      "name": "History Islam",
+      "name": "Tafseer 4",
       "url": "http://islam2day.tv:6000"
     },
     {
-      "name": "Islam Today",
+      "name": "Tafseer 5",
       "url": "http://islam2day.tv:5000"
     },
     {
-      "name": "Lectures Islam",
+      "name": "Tafseer 6",
       "url": "http://islam2day.tv:8000"
     },
     {
-      "name": "Nasheeds Islam",
+      "name": "Tafseer 7",
       "url": "http://islam2day.tv:7000"
     },
     {
-      "name": "Quran Islam Today",
+      "name": "Tafseer 8",
       "url": "http://islam2day.tv:3000"
     },
     {
-      "name": "Quran Radio Tafseer",
+      "name": "Tafseer 9",
       "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
     },
     {
-      "name": "Rabetah Al Ulama",
+      "name": "Tafseer 10",
       "url": "http://relay.emasjidlive.uk/rabetah"
     },
     {
-      "name": "Tafseer Islam",
+      "name": "Tafseer 11",
       "url": "http://islam2day.tv:4000"
     },
     {
-      "name": "Tafseer Raheemi",
+      "name": "Tafseer 12",
       "url": "http://lb.mymasjid.stream/flc"
     }
   ]
