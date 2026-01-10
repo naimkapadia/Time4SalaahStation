@@ -2,35 +2,35 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "Emasjid Quran",
+      "name": "Quran 1",
       "url": "http://relay.emasjidlive.uk/quraan"
     },
     {
-      "name": "Love Quran",
+      "name": "Quran 2",
       "url": "http://158.69.227.214:8191/stream?type=http&nocache=5691"
     },
     {
-      "name": "MyMasjid Qiraat",
+      "name": "Quran 3",
       "url": "http://lb.mymasjid.stream/qiraat"
     },
     {
-      "name": "Quran Cananda",
+      "name": "Quran 4",
       "url": "http://canada1.reliastream.com:8191/stream"
     },
     {
-      "name": "Quran Recitation Alserajradio",
+      "name": "Quran 5",
       "url": "http://192.99.170.8:5550/stream?type=http&nocache=112984"
     },
     {
-      "name": "Radio Quran 1",
+      "name": "Quran 6",
       "url": "http://virmach4.hajjam.net:8000/main"
     },
     {
-      "name": "Radio Quran 2",
+      "name": "Quran 7",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202817"
     },
     {
-      "name": "Radio Quran 3",
+      "name": "Quran 8",
       "url": "http://66.45.232.131:9994/stream?type=http&nocache=202863"
     }
   ]
