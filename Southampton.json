@@ -1,0 +1,9 @@
+{
+  "city": "Southampton",
+  "stations": [
+         {
+      "name": "Medina Mosque",
+      "url": "http://lb.mymasjid.stream/smmtl"
+    }
+  ]
+}
