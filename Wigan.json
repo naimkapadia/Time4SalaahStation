@@ -1,0 +1,9 @@
+{
+  "city": "Wigan",
+  "stations": [
+    {
+      "name": "Masjid Tooba",
+      "url": "http://relay.emasjidlive.uk/masjidtooba"
+    }
+  ]
+}
