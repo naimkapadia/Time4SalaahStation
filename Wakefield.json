@@ -1,1 +1,9 @@
-
+{
+  "city": "Wakefield",
+  "stations": [
+    {
+      "name": "Ghausia Masjid Institute",
+      "url": "http://relay.emasjidlive.uk/ghausiamasjidinstitute"
+    }
+  ]
+}
