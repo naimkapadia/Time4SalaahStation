@@ -212,6 +212,11 @@
       "name": "Manchester",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Manchester.json"
     },
+{
+      "name": "Newcastle-Upon-Lyme",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Newcastle-Upon-Tyne.json"
+    },
+    
     {
       "name": "Newcastle-Upon-Tyne",
       "url": "https://raw.githubusercontent.com/naimkapadia/Time4SalaahStation/main/Newcastle-Upon-Tyne.json"
