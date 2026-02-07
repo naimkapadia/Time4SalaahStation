@@ -1,0 +1,9 @@
+{
+  "city": "Wolverhampton",
+  "stations": [
+    {
+      "name": "Jamia Masjid Aqsa",
+      "url": "http://relay.emasjidlive.uk/wmt"
+    }
+  ]
+}
