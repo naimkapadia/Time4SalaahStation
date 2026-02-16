@@ -41,11 +41,7 @@
       "name": "Quran Kuwait",
       "url": "http://s2.voscast.com:12312/stream"
     },
-     {
-       "name": "Quran Live Masjid",
-      "url": "http://icecast.livemasjid.com/activestream.mp3"
-    },
-{
+    {
        "name": "Quran Nablus",
       "url": "http://quran-radio.org:8005/stream"
     }
