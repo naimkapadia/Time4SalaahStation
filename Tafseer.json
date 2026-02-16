@@ -1,6 +1,12 @@
 {
   "city": "Tafseer",
   "stations": [
+       
+  {
+      "name": "Tafseer English",
+      "url": "https://icecast.livemasjid.com/annoor-relay"
+    },
+    
     {
       "name": "Tafseer 1",
       "url": "http://s9.viastreaming.net:9645/;stream/1"
@@ -18,35 +24,35 @@
       "url": "http://islam2day.tv:6000"
     },
     {
-      "name": "Tafseer 5",
+      "name": "Tafseer Islam Today",
       "url": "http://islam2day.tv:5000"
     },
     {
-      "name": "Tafseer 6",
+      "name": "Tafseer Islam Today 2",
       "url": "http://islam2day.tv:8000"
     },
     {
-      "name": "Tafseer 7",
+      "name": "Tafseer Islam Today 3",
       "url": "http://islam2day.tv:7000"
     },
     {
-      "name": "Tafseer 8",
+      "name": "Tafseer Islam Today 4",
       "url": "http://islam2day.tv:3000"
     },
     {
-      "name": "Tafseer 9",
+      "name": "Tafseer Islam",
       "url": "http://66.45.232.131:9992/stream?type=http&nocache=264790"
     },
     {
-      "name": "Tafseer 10",
+      "name": "Tafseer Emasjid",
       "url": "http://relay.emasjidlive.uk/rabetah"
     },
     {
-      "name": "Tafseer 11",
+      "name": "Tafseer Islam Today 5 ",
       "url": "http://islam2day.tv:4000"
     },
     {
-      "name": "Tafseer 12",
+      "name": "Tafseer Mymasjid",
       "url": "http://lb.mymasjid.stream/flc"
     }
   ]
