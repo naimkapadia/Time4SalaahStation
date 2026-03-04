@@ -47,6 +47,10 @@
     },
      {
        "name": "Masjid Umar",
+      "url": "https://quran-radio.org:8005/stream"
+    },
+     {
+       "name": "Masjid Umar 2",
       "url": "http://quran-radio.org:8005/stream"
     }
     
