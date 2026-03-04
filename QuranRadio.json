@@ -44,6 +44,10 @@
     {
        "name": "Quran Nablus",
       "url": "http://quran-radio.org:8005/stream"
+    },
+     {
+       "name": "Masjid Umar",
+      "url": "http://quran-radio.org:8005/stream"
     }
     
        ]
