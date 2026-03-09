@@ -4,18 +4,22 @@
     {
       "name": "Abdullah ibn Masud",
       "url": "http://relay.emasjidlive.uk/abdullahibnmasud"
+      "enabled": false
     },
     {
       "name": "Al Ehsaan Academy",
       "url": "http://relay.emasjidlive.uk/alehsaanacademy"
+      "enabled": false
     },
     {
       "name": "Darul Arqam",
       "url": "http://relay.emasjidlive.uk/darularqameducationaltrust"
+      "enabled": false
     },
     {
       "name": "Darul Ihsaan",
       "url": "http://relay.emasjidlive.uk/darulihsaan"
+      "enabled": false
     },
     {
       "name": "IDA",
@@ -28,18 +32,22 @@
     {
       "name": "Imam-il-Bukhari",
       "url": "http://relay.emasjidlive.uk/bukhari"
+      "enabled": false
     },
     {
       "name": "Jame Masjid",
       "url": "http://relay.emasjidlive.uk/jamemasjid"
+      "enabled": false
     },
     {
       "name": "Knighton masjid",
       "url": "http://relay.emasjidlive.uk/knightonmasjid"
+      "enabled": false
     },
     {
       "name": "Madani Masjid",
       "url": "http://relay.emasjidlive.uk/madanimasjid"
+      "enabled": false
     },
       {
        "name": "Masjid Umar",
@@ -48,14 +56,17 @@
     {
       "name": "Masjid Adam",
       "url": "http://relay.emasjidlive.uk/masjidadamoadby"
+      "enabled": false
     },
     {
       "name": "Masjid Aisha",
       "url": "http://relay.emasjidlive.uk/Masjidaisha"
+      "enabled": false
     },
     {
       "name": "Masjid Al Furqan",
       "url": "http://relay.emasjidlive.uk/masjidalfurqan"
+      "enabled": false
     },
     {
       "name": "Masjid Ali",
@@ -68,10 +79,12 @@
     {
       "name": "Muadh ibn Jabal",
       "url": "http://relay.emasjidlive.uk/muadhibnjabal"
+      "enabled": false
     },
     {
       "name": "Peace Centre",
       "url": "http://relay.emasjidlive.uk/peacecentre"
+      "enabled": false
     }
   ]
 }
